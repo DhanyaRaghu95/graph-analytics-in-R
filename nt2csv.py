@@ -1,11 +1,5 @@
 """
 A converter from RDF/NTriples format into BigQuery-compliant CSV format. 
-
-This tool is part of the U{BigQuery for Linked Data <http://code.google.com/p/bigquery-linkeddata/>} effort.
-
-@author: Michael Hausenblas, http://sw-app.org/mic.xhtml#i
-@since: 2010-12-12
-@status: supports now quintuple scheme and in-memory (string) conversion
 """
 
 import sys, csv, os, StringIO
