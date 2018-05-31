@@ -1,0 +1,56 @@
+<http://ncbs.org/1HT9> <http://ncbs.org/Structure_of_swapped_region> "C-terminal &-alpha helix" .
+<http://ncbs.org/1HT9> <http://ncbs.org/ID> "1HT9" .
+<http://ncbs.org/1HT9> <http://ncbs.org/PDB_PQS> "PDB" .
+<http://ncbs.org/1HT9> <http://ncbs.org/Sequence_of_Hingeloop> "SLLKGMS" .
+<http://ncbs.org/1HT9> <http://ncbs.org/Biological_unit> "Homodimer" .
+<http://ncbs.org/1HT9> <http://ncbs.org/Residues_per_subunit> "76" .
+<http://ncbs.org/1HT9> <http://ncbs.org/PUBMED_ID> "11316872" .
+<http://ncbs.org/1HT9> <http://ncbs.org/Residues_in_Hinge_loop> "SER38-SER44 (7)" .
+<http://ncbs.org/1HT9> <http://ncbs.org/Residues_in_swapped_domain> "THR45-GLN75 (31)" .
+<http://ncbs.org/1HT9> <http://ncbs.org/Extent_of_swapping> "67.1" .
+<http://ncbs.org/1HT9> <http://ncbs.org/HINGE_REGION> "EFPSLLKGMSTLD" .
+<http://ncbs.org/1HT9> <http://ncbs.org/Chain_ID> "A, B" .
+<http://ncbs.org/1HT9> <http://ncbs.org/Sequence_of_swapped_domain> "TLDELFEELDKNGDGEVSFEEFQVLVKKISQ" .
+<http://ncbs.org/1HT9> <http://ncbs.org/OLD> "Homodimer" .
+<http://ncbs.org/1I1D> <http://ncbs.org/Structure_of_swapped_region> "C-terminal &-beta strand" .
+<http://ncbs.org/1I1D> <http://ncbs.org/ID> "1I1D" .
+<http://ncbs.org/1I1D> <http://ncbs.org/PDB_PQS> "PQS" .
+<http://ncbs.org/1I1D> <http://ncbs.org/Sequence_of_Hingeloop> "GF" .
+<http://ncbs.org/1I1D> <http://ncbs.org/Biological_unit> "Homodimer" .
+<http://ncbs.org/1I1D> <http://ncbs.org/Residues_per_subunit> "159" .
+<http://ncbs.org/1I1D> <http://ncbs.org/PUBMED_ID> "11278591" .
+<http://ncbs.org/1I1D> <http://ncbs.org/Residues_in_Hinge_loop> "GLY147-PHE148 (2)" .
+<http://ncbs.org/1I1D> <http://ncbs.org/Residues_in_swapped_domain> "SER149-LYS159 (11)" .
+<http://ncbs.org/1I1D> <http://ncbs.org/Extent_of_swapping> "20.2" .
+<http://ncbs.org/1I1D> <http://ncbs.org/HINGE_REGION> "EKCGFSNA" .
+<http://ncbs.org/1I1D> <http://ncbs.org/Chain_ID> "A, B, C, D" .
+<http://ncbs.org/1I1D> <http://ncbs.org/Sequence_of_swapped_domain> "SNAGVEMQIRK" .
+<http://ncbs.org/1I1D> <http://ncbs.org/OLD> "Homodimer" .
+<http://ncbs.org/1I21> <http://ncbs.org/Structure_of_swapped_region> "C-terminal &-beta sheet" .
+<http://ncbs.org/1I21> <http://ncbs.org/ID> "1I21" .
+<http://ncbs.org/1I21> <http://ncbs.org/PDB_PQS> "PDB" .
+<http://ncbs.org/1I21> <http://ncbs.org/Sequence_of_Hingeloop> "GF" .
+<http://ncbs.org/1I21> <http://ncbs.org/Biological_unit> "Homodimer" .
+<http://ncbs.org/1I21> <http://ncbs.org/Residues_per_subunit> "159" .
+<http://ncbs.org/1I21> <http://ncbs.org/PUBMED_ID> "11278591" .
+<http://ncbs.org/1I21> <http://ncbs.org/Residues_in_Hinge_loop> "GLY147-PHE148 (2)" .
+<http://ncbs.org/1I21> <http://ncbs.org/Residues_in_swapped_domain> "SER149-ARG158 (10)" .
+<http://ncbs.org/1I21> <http://ncbs.org/Extent_of_swapping> "18.5" .
+<http://ncbs.org/1I21> <http://ncbs.org/HINGE_REGION> "EKCGFSNA" .
+<http://ncbs.org/1I21> <http://ncbs.org/Chain_ID> "A, B, F, E" .
+<http://ncbs.org/1I21> <http://ncbs.org/Sequence_of_swapped_domain> "SNAGVEMQIR" .
+<http://ncbs.org/1I21> <http://ncbs.org/OLD> "Homohexamer" .
+<http://ncbs.org/1I4M> <http://ncbs.org/Structure_of_swapped_region> "C-terminal &-alpha helix" .
+<http://ncbs.org/1I4M> <http://ncbs.org/ID> "1I4M" .
+<http://ncbs.org/1I4M> <http://ncbs.org/PDB_PQS> "PQS" .
+<http://ncbs.org/1I4M> <http://ncbs.org/Sequence_of_Hingeloop> "VTTTTKGENF (last few residues of helix 2 in monomer=switch region in dimer)" .
+<http://ncbs.org/1I4M> <http://ncbs.org/Biological_unit> "Homodimer" .
+<http://ncbs.org/1I4M> <http://ncbs.org/Residues_per_subunit> "108 (fragment 119-226)" .
+<http://ncbs.org/1I4M> <http://ncbs.org/PUBMED_ID> "11524679" .
+<http://ncbs.org/1I4M> <http://ncbs.org/Residues_in_Hinge_loop> "VAL189-PHE198 (10)" .
+<http://ncbs.org/1I4M> <http://ncbs.org/Residues_in_swapped_domain> "THR199-TYR226 (28)" .
+<http://ncbs.org/1I4M> <http://ncbs.org/Extent_of_swapping> "38.49" .
+<http://ncbs.org/1I4M> <http://ncbs.org/HINGE_REGION> "QHTVTTTTKGENFTET" .
+<http://ncbs.org/1I4M> <http://ncbs.org/Chain_ID> "A" .
+<http://ncbs.org/1I4M> <http://ncbs.org/Sequence_of_swapped_domain> "TETDVKMMERVVEQMCITQYERESQAYY" .
+<http://ncbs.org/1I4M> <http://ncbs.org/OLD> "Homodimer" .

@@ -1,0 +1,7842 @@
+/* Created by igraph 0.7.1 */
+digraph {
+  0 [
+    name="http://travel.org/russia#take_place_on"
+  ];
+  1 [
+    name="http://travel.org/russia#south"
+  ];
+  2 [
+    name="http://travel.org/russia#recreation_sports"
+  ];
+  3 [
+    name="http://travel.org/russia#southeast"
+  ];
+  4 [
+    name="http://travel.org/russia#foreign_business_person"
+  ];
+  5 [
+    name="http://travel.org/russia#_4_pm"
+  ];
+  6 [
+    name="http://travel.org/russia#Panorama_Restaurant"
+  ];
+  7 [
+    name="http://travel.org/russia#Dimension"
+  ];
+  8 [
+    name="http://travel.org/russia#Kremlin"
+  ];
+  9 [
+    name="http://travel.org/russia#Dollar"
+  ];
+  10 [
+    name="http://travel.org/russia#October"
+  ];
+  11 [
+    name="http://travel.org/russia#Russia"
+  ];
+  12 [
+    name="http://travel.org/russia#Saturday"
+  ];
+  13 [
+    name="http://travel.org/russia#language"
+  ];
+  14 [
+    name="http://travel.org/russia#be_needed_for"
+  ];
+  15 [
+    name="http://travel.org/russia#Suzdal"
+  ];
+  16 [
+    name="http://travel.org/russia#hard_currency_restaurant"
+  ];
+  17 [
+    name="http://travel.org/russia#open_hour"
+  ];
+  18 [
+    name="http://travel.org/russia#has_end"
+  ];
+  19 [
+    name="http://travel.org/russia#Carnival"
+  ];
+  20 [
+    name="http://travel.org/russia#has_value___time_point"
+  ];
+  21 [
+    name="http://travel.org/russia#northwest"
+  ];
+  22 [
+    name="http://travel.org/russia#about_health"
+  ];
+  23 [
+    name="http://travel.org/russia#_10_am"
+  ];
+  24 [
+    name="http://travel.org/russia#has_duration_value"
+  ];
+  25 [
+    name="http://travel.org/russia#meat"
+  ];
+  26 [
+    name="http://travel.org/russia#village"
+  ];
+  27 [
+    name="http://travel.org/russia#Vladimir"
+  ];
+  28 [
+    name="http://travel.org/russia#physician"
+  ];
+  29 [
+    name="http://travel.org/russia#Berlin"
+  ];
+  30 [
+    name="http://travel.org/russia#has_position_to_stpetersburg___palace"
+  ];
+  31 [
+    name="http://travel.org/russia#geographical_environment"
+  ];
+  32 [
+    name="http://travel.org/russia#convenience_store"
+  ];
+  33 [
+    name="http://travel.org/russia#credit_card"
+  ];
+  34 [
+    name="http://travel.org/russia#Pushkin_Palace"
+  ];
+  35 [
+    name="http://travel.org/russia#west"
+  ];
+  36 [
+    name="http://travel.org/russia#Moscow_Conservatory"
+  ];
+  37 [
+    name="http://travel.org/russia#Vosstaniye_Square"
+  ];
+  38 [
+    name="http://travel.org/russia#kilo_meter"
+  ];
+  39 [
+    name="http://travel.org/russia#Peter_the_Great"
+  ];
+  40 [
+    name="http://travel.org/russia#Caspian_Sea"
+  ];
+  41 [
+    name="http://travel.org/russia#shopping_mall"
+  ];
+  42 [
+    name="http://travel.org/russia#GPS"
+  ];
+  43 [
+    name="http://travel.org/russia#meter"
+  ];
+  44 [
+    name="http://travel.org/russia#consumption_information"
+  ];
+  45 [
+    name="http://travel.org/russia#Caviar"
+  ];
+  46 [
+    name="http://travel.org/russia#Pavlovsk_Palace"
+  ];
+  47 [
+    name="http://travel.org/russia#square"
+  ];
+  48 [
+    name="http://travel.org/russia#passport"
+  ];
+  49 [
+    name="http://travel.org/russia#lake"
+  ];
+  50 [
+    name="http://travel.org/russia#university"
+  ];
+  51 [
+    name="http://travel.org/russia#Banking_Hours_special"
+  ];
+  52 [
+    name="http://travel.org/russia#St_Peter_and_Paul_Cathedral"
+  ];
+  53 [
+    name="http://travel.org/russia#has_position_to_stpetersburg"
+  ];
+  54 [
+    name="http://travel.org/russia#street"
+  ];
+  55 [
+    name="http://travel.org/russia#belong_to_country___town"
+  ];
+  56 [
+    name="http://travel.org/russia#has_mouth"
+  ];
+  57 [
+    name="http://travel.org/russia#has_distance_to_stpetersburg___town"
+  ];
+  58 [
+    name="http://travel.org/russia#allowed_in_Russia"
+  ];
+  59 [
+    name="http://travel.org/russia#week"
+  ];
+  60 [
+    name="http://travel.org/russia#second"
+  ];
+  61 [
+    name="http://travel.org/russia#Pushkin"
+  ];
+  62 [
+    name="http://travel.org/russia#_5_am"
+  ];
+  63 [
+    name="http://travel.org/russia#peninsula"
+  ];
+  64 [
+    name="http://travel.org/russia#English"
+  ];
+  65 [
+    name="http://travel.org/russia#Vladivostok"
+  ];
+  66 [
+    name="http://travel.org/russia#Bolshoi_Theatre"
+  ];
+  67 [
+    name="http://travel.org/russia#rain_massage"
+  ];
+  68 [
+    name="http://travel.org/russia#St_Demetrius_Cathedral"
+  ];
+  69 [
+    name="http://travel.org/russia#_8_pm"
+  ];
+  70 [
+    name="http://travel.org/russia#Vodka"
+  ];
+  71 [
+    name="http://travel.org/russia#president"
+  ];
+  72 [
+    name="http://travel.org/russia#organisation"
+  ];
+  73 [
+    name="http://travel.org/russia#Sauna"
+  ];
+  74 [
+    name="http://travel.org/russia#cruise"
+  ];
+  75 [
+    name="http://travel.org/russia#architecture"
+  ];
+  76 [
+    name="http://travel.org/russia#higher"
+  ];
+  77 [
+    name="http://travel.org/russia#has_service_object"
+  ];
+  78 [
+    name="http://travel.org/russia#Tchaikovsky"
+  ];
+  79 [
+    name="http://travel.org/russia#Red_Square"
+  ];
+  80 [
+    name="http://travel.org/russia#February"
+  ];
+  81 [
+    name="http://travel.org/russia#Neva"
+  ];
+  82 [
+    name="http://travel.org/russia#has_name___region"
+  ];
+  83 [
+    name="http://travel.org/russia#year"
+  ];
+  84 [
+    name="http://travel.org/russia#market"
+  ];
+  85 [
+    name="http://travel.org/russia#sponsor"
+  ];
+  86 [
+    name="http://travel.org/russia#club"
+  ];
+  87 [
+    name="http://travel.org/russia#founded_by"
+  ];
+  88 [
+    name="http://travel.org/russia#theatre"
+  ];
+  89 [
+    name="http://travel.org/russia#cash"
+  ];
+  90 [
+    name="http://travel.org/russia#public_space"
+  ];
+  91 [
+    name="http://travel.org/russia#Germany"
+  ];
+  92 [
+    name="http://travel.org/russia#hand_painted_Lacquerware"
+  ];
+  93 [
+    name="http://travel.org/russia#church"
+  ];
+  94 [
+    name="http://travel.org/russia#tower"
+  ];
+  95 [
+    name="http://travel.org/russia#north"
+  ];
+  96 [
+    name="http://travel.org/russia#be_showed_in___opera"
+  ];
+  97 [
+    name="http://travel.org/russia#northeast"
+  ];
+  98 [
+    name="http://travel.org/russia#month"
+  ];
+  99 [
+    name="http://travel.org/russia#is_on_weekday"
+  ];
+  100 [
+    name="http://travel.org/russia#canal"
+  ];
+  101 [
+    name="http://travel.org/russia#mud_bath"
+  ];
+  102 [
+    name="http://travel.org/russia#mile"
+  ];
+  103 [
+    name="http://travel.org/russia#hydrotherapy_bath"
+  ];
+  104 [
+    name="http://travel.org/russia#town"
+  ];
+  105 [
+    name="http://travel.org/russia#Lake_Onega"
+  ];
+  106 [
+    name="http://travel.org/russia#Kazan_Kremlin"
+  ];
+  107 [
+    name="http://travel.org/russia#Russian"
+  ];
+  108 [
+    name="http://travel.org/russia#Novosibirsk"
+  ];
+  109 [
+    name="http://travel.org/russia#palace"
+  ];
+  110 [
+    name="http://travel.org/russia#has_duration_unit"
+  ];
+  111 [
+    name="http://travel.org/russia#Griboyedova_Canal"
+  ];
+  112 [
+    name="http://travel.org/russia#_3_pm"
+  ];
+  113 [
+    name="http://travel.org/russia#place_for_nightlife"
+  ];
+  114 [
+    name="http://travel.org/russia#has_value___area"
+  ];
+  115 [
+    name="http://travel.org/russia#be_showed_in___dance"
+  ];
+  116 [
+    name="http://travel.org/russia#Friday"
+  ];
+  117 [
+    name="http://travel.org/russia#Andrei_Sakharov"
+  ];
+  118 [
+    name="http://travel.org/russia#has_unit___area"
+  ];
+  119 [
+    name="http://travel.org/russia#east"
+  ];
+  120 [
+    name="http://travel.org/russia#Kremlin_Palace_Theatre"
+  ];
+  121 [
+    name="http://travel.org/russia#Balalaika"
+  ];
+  122 [
+    name="http://travel.org/russia#Sunday"
+  ];
+  123 [
+    name="http://travel.org/russia#opera"
+  ];
+  124 [
+    name="http://travel.org/russia#has_birthplace"
+  ];
+  125 [
+    name="http://travel.org/russia#_9_am"
+  ];
+  126 [
+    name="http://travel.org/russia#Volga"
+  ];
+  127 [
+    name="http://travel.org/russia#sq_meter"
+  ];
+  128 [
+    name="http://travel.org/russia#Mikhail_Gorbachev"
+  ];
+  129 [
+    name="http://travel.org/russia#others"
+  ];
+  130 [
+    name="http://travel.org/russia#May"
+  ];
+  131 [
+    name="http://travel.org/russia#Bolshoi_Ballet"
+  ];
+  132 [
+    name="http://travel.org/russia#food"
+  ];
+  133 [
+    name="http://travel.org/russia#_12_pm"
+  ];
+  134 [
+    name="http://travel.org/russia#St_Isaac_s_Cathedral"
+  ];
+  135 [
+    name="http://travel.org/russia#has_sight___town"
+  ];
+  136 [
+    name="http://travel.org/russia#Kizhi"
+  ];
+  137 [
+    name="http://travel.org/russia#length_unit"
+  ];
+  138 [
+    name="http://travel.org/russia#classic_music"
+  ];
+  139 [
+    name="http://travel.org/russia#Milkailovsky_Park"
+  ];
+  140 [
+    name="http://travel.org/russia#is_known_for___shopping_place"
+  ];
+  141 [
+    name="http://travel.org/russia#Vitoslavlitsy_Museum"
+  ];
+  142 [
+    name="http://travel.org/russia#dance"
+  ];
+  143 [
+    name="http://travel.org/russia#Wood_Sculpture"
+  ];
+  144 [
+    name="http://travel.org/russia#human_being"
+  ];
+  145 [
+    name="http://travel.org/russia#along_river"
+  ];
+  146 [
+    name="http://travel.org/russia#Volgograd"
+  ];
+  147 [
+    name="http://travel.org/russia#the_Festival_of_the_North"
+  ];
+  148 [
+    name="http://travel.org/russia#photocopy"
+  ];
+  149 [
+    name="http://travel.org/russia#Pushkin_Museum"
+  ];
+  150 [
+    name="http://travel.org/russia#Beijing"
+  ];
+  151 [
+    name="http://travel.org/russia#is_best_time_for_travel"
+  ];
+  152 [
+    name="http://travel.org/russia#has_position_to_moscow___palace"
+  ];
+  153 [
+    name="http://travel.org/russia#St_Sofia_Cathedral"
+  ];
+  154 [
+    name="http://travel.org/russia#public_place"
+  ];
+  155 [
+    name="http://travel.org/russia#normal_restaurant"
+  ];
+  156 [
+    name="http://travel.org/russia#fruit"
+  ];
+  157 [
+    name="http://travel.org/russia#bar"
+  ];
+  158 [
+    name="http://travel.org/russia#has_distance_unit___region"
+  ];
+  159 [
+    name="http://travel.org/russia#living_being"
+  ];
+  160 [
+    name="http://travel.org/russia#local_store"
+  ];
+  161 [
+    name="http://travel.org/russia#cathedral"
+  ];
+  162 [
+    name="http://travel.org/russia#mineral_bath"
+  ];
+  163 [
+    name="http://travel.org/russia#time_point"
+  ];
+  164 [
+    name="http://travel.org/russia#forest"
+  ];
+  165 [
+    name="http://travel.org/russia#Petrodvorets"
+  ];
+  166 [
+    name="http://travel.org/russia#_4_am"
+  ];
+  167 [
+    name="http://travel.org/russia#be_active_at"
+  ];
+  168 [
+    name="http://travel.org/russia#Arctic_Circle"
+  ];
+  169 [
+    name="http://travel.org/russia#singing"
+  ];
+  170 [
+    name="http://travel.org/russia#be_included_in"
+  ];
+  171 [
+    name="http://travel.org/russia#_7_pm"
+  ];
+  172 [
+    name="http://travel.org/russia#be_showed_in___singing"
+  ];
+  173 [
+    name="http://travel.org/russia#Manezh_Square"
+  ];
+  174 [
+    name="http://travel.org/russia#Dostoyevsky"
+  ];
+  175 [
+    name="http://travel.org/russia#casino"
+  ];
+  176 [
+    name="http://travel.org/russia#be_sold_in"
+  ];
+  177 [
+    name="http://travel.org/russia#live_in"
+  ];
+  178 [
+    name="http://travel.org/russia#theatre_company"
+  ];
+  179 [
+    name="http://travel.org/russia#shopping_place"
+  ];
+  180 [
+    name="http://travel.org/russia#be_paid_for"
+  ];
+  181 [
+    name="http://travel.org/russia#has_time_unit"
+  ];
+  182 [
+    name="http://travel.org/russia#Orel"
+  ];
+  183 [
+    name="http://travel.org/russia#has_distance_to_moscow___palace"
+  ];
+  184 [
+    name="http://travel.org/russia#study_at"
+  ];
+  185 [
+    name="http://travel.org/russia#normal"
+  ];
+  186 [
+    name="http://travel.org/russia#rock"
+  ];
+  187 [
+    name="http://travel.org/russia#season"
+  ];
+  188 [
+    name="http://travel.org/russia#ice_skating"
+  ];
+  189 [
+    name="http://travel.org/russia#Winter_Palace"
+  ];
+  190 [
+    name="http://travel.org/russia#_13"
+  ];
+  191 [
+    name="http://travel.org/russia#Spiritual_Product"
+  ];
+  192 [
+    name="http://travel.org/russia#o_clock"
+  ];
+  193 [
+    name="http://travel.org/russia#Lake_Baikal"
+  ];
+  194 [
+    name="http://travel.org/russia#Tula"
+  ];
+  195 [
+    name="http://travel.org/russia#China"
+  ];
+  196 [
+    name="http://travel.org/russia#time_unit"
+  ];
+  197 [
+    name="http://travel.org/russia#consumer_goods"
+  ];
+  198 [
+    name="http://travel.org/russia#conservatory"
+  ];
+  199 [
+    name="http://travel.org/russia#DEFAULT_ROOT_CONCEPT"
+  ];
+  200 [
+    name="http://travel.org/russia#Material"
+  ];
+  201 [
+    name="http://travel.org/russia#artwork_organisation"
+  ];
+  202 [
+    name="http://travel.org/russia#December"
+  ];
+  203 [
+    name="http://travel.org/russia#Wednsday"
+  ];
+  204 [
+    name="http://travel.org/russia#has_position_to_moscow___town"
+  ];
+  205 [
+    name="http://travel.org/russia#Monument_to_Peter_the_Great"
+  ];
+  206 [
+    name="http://travel.org/russia#Kamchatka_Peninsula"
+  ];
+  207 [
+    name="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+  ];
+  208 [
+    name="http://travel.org/russia#beginn_point"
+  ];
+  209 [
+    name="http://travel.org/russia#travel_event"
+  ];
+  210 [
+    name="http://travel.org/russia#Pyatigorsk"
+  ];
+  211 [
+    name="http://travel.org/russia#Trans_Siberian"
+  ];
+  212 [
+    name="http://travel.org/russia#Samovar"
+  ];
+  213 [
+    name="http://travel.org/russia#simple_consumer_device"
+  ];
+  214 [
+    name="http://travel.org/russia#Monday"
+  ];
+  215 [
+    name="http://travel.org/russia#means_of_payment"
+  ];
+  216 [
+    name="http://travel.org/russia#has_length_unit___palace"
+  ];
+  217 [
+    name="http://travel.org/russia#cititzen_of_russia"
+  ];
+  218 [
+    name="http://travel.org/russia#closed_on"
+  ];
+  219 [
+    name="http://travel.org/russia#circuse"
+  ];
+  220 [
+    name="http://travel.org/russia#_2_pm"
+  ];
+  221 [
+    name="http://travel.org/russia#entertainment"
+  ];
+  222 [
+    name="http://travel.org/russia#Petrozavodsk"
+  ];
+  223 [
+    name="http://travel.org/russia#tour_company"
+  ];
+  224 [
+    name="http://travel.org/russia#University_of_Kazan"
+  ];
+  225 [
+    name="http://travel.org/russia#Yakutsk"
+  ];
+  226 [
+    name="http://travel.org/russia#museum"
+  ];
+  227 [
+    name="http://travel.org/russia#musician"
+  ];
+  228 [
+    name="http://travel.org/russia#sport"
+  ];
+  229 [
+    name="http://travel.org/russia#_8_am"
+  ];
+  230 [
+    name="http://travel.org/russia#A_Month_in_the_Country"
+  ];
+  231 [
+    name="http://travel.org/russia#interred_in"
+  ];
+  232 [
+    name="http://travel.org/russia#Hungry_Duck"
+  ];
+  233 [
+    name="http://travel.org/russia#white_Stone_Architecture"
+  ];
+  234 [
+    name="http://travel.org/russia#U.S.A."
+  ];
+  235 [
+    name="http://travel.org/russia#sq_km"
+  ];
+  236 [
+    name="http://travel.org/russia#_11_pm"
+  ];
+  237 [
+    name="http://travel.org/russia#Laptop"
+  ];
+  238 [
+    name="http://travel.org/russia#festival"
+  ];
+  239 [
+    name="http://travel.org/russia#Icecream"
+  ];
+  240 [
+    name="http://travel.org/russia#political_region"
+  ];
+  241 [
+    name="http://travel.org/russia#region"
+  ];
+  242 [
+    name="http://travel.org/russia#Krisis_Zhanra"
+  ];
+  243 [
+    name="http://travel.org/russia#Ulyanovsk"
+  ];
+  244 [
+    name="http://travel.org/russia#need_certifikate"
+  ];
+  245 [
+    name="http://travel.org/russia#public_building"
+  ];
+  246 [
+    name="http://travel.org/russia#boutique"
+  ];
+  247 [
+    name="http://travel.org/russia#tourist_shop"
+  ];
+  248 [
+    name="http://travel.org/russia#pass_by"
+  ];
+  249 [
+    name="http://travel.org/russia#has_open_hour___place"
+  ];
+  250 [
+    name="http://travel.org/russia#belong_to_country___city"
+  ];
+  251 [
+    name="http://travel.org/russia#student"
+  ];
+  252 [
+    name="http://travel.org/russia#has_distance_to_stpetersburg___city"
+  ];
+  253 [
+    name="http://travel.org/russia#person"
+  ];
+  254 [
+    name="http://travel.org/russia#Designer_Boutique"
+  ];
+  255 [
+    name="http://travel.org/russia#time"
+  ];
+  256 [
+    name="http://travel.org/russia#water_cure"
+  ];
+  257 [
+    name="http://travel.org/russia#September"
+  ];
+  258 [
+    name="http://travel.org/russia#time_slot"
+  ];
+  259 [
+    name="http://travel.org/russia#has_position_to_stpetersburg___town"
+  ];
+  260 [
+    name="http://travel.org/russia#Novgorod"
+  ];
+  261 [
+    name="http://travel.org/russia#Potato"
+  ];
+  262 [
+    name="http://travel.org/russia#T_Shirt"
+  ];
+  263 [
+    name="http://travel.org/russia#Mariinsky_Ballet"
+  ];
+  264 [
+    name="http://travel.org/russia#bank"
+  ];
+  265 [
+    name="http://travel.org/russia#July"
+  ];
+  266 [
+    name="http://travel.org/russia#day"
+  ];
+  267 [
+    name="http://travel.org/russia#_3_am"
+  ];
+  268 [
+    name="http://travel.org/russia#country"
+  ];
+  269 [
+    name="http://travel.org/russia#Ivan_Goncharev"
+  ];
+  270 [
+    name="http://travel.org/russia#check"
+  ];
+  271 [
+    name="http://travel.org/russia#_6_pm"
+  ];
+  272 [
+    name="http://travel.org/russia#composer"
+  ];
+  273 [
+    name="http://travel.org/russia#Nevsky_Prospekt"
+  ];
+  274 [
+    name="http://travel.org/russia#direction"
+  ];
+  275 [
+    name="http://travel.org/russia#revolutionary"
+  ];
+  276 [
+    name="http://travel.org/russia#Antique"
+  ];
+  277 [
+    name="http://travel.org/russia#has_distance_to_moscow"
+  ];
+  278 [
+    name="http://travel.org/russia#_3days_visa"
+  ];
+  279 [
+    name="http://travel.org/russia#has_written"
+  ];
+  280 [
+    name="http://travel.org/russia#_12_am"
+  ];
+  281 [
+    name="http://travel.org/russia#plant"
+  ];
+  282 [
+    name="http://travel.org/russia#Kuril_Islands"
+  ];
+  283 [
+    name="http://travel.org/russia#Japan"
+  ];
+  284 [
+    name="http://travel.org/russia#Christ_the_Savior_Cathedral"
+  ];
+  285 [
+    name="http://travel.org/russia#Thursday"
+  ];
+  286 [
+    name="http://travel.org/russia#overview"
+  ];
+  287 [
+    name="http://travel.org/russia#St_Nicholas_Church"
+  ];
+  288 [
+    name="http://travel.org/russia#Lenin"
+  ];
+  289 [
+    name="http://travel.org/russia#Bread"
+  ];
+  290 [
+    name="http://travel.org/russia#city"
+  ];
+  291 [
+    name="http://travel.org/russia#Winter"
+  ];
+  292 [
+    name="http://travel.org/russia#hour"
+  ];
+  293 [
+    name="http://travel.org/russia#clothes"
+  ];
+  294 [
+    name="http://travel.org/russia#has_source"
+  ];
+  295 [
+    name="http://travel.org/russia#has_open_hour___building"
+  ];
+  296 [
+    name="http://travel.org/russia#has_capital"
+  ];
+  297 [
+    name="http://travel.org/russia#Mamayev_Hill"
+  ];
+  298 [
+    name="http://travel.org/russia#Peter_and_Paul_Fortress"
+  ];
+  299 [
+    name="http://travel.org/russia#Banking_Hours_normal"
+  ];
+  300 [
+    name="http://travel.org/russia#Summer"
+  ];
+  301 [
+    name="http://travel.org/russia#has_distance_to_moscow___city"
+  ];
+  302 [
+    name="http://travel.org/russia#rest_cure"
+  ];
+  303 [
+    name="http://travel.org/russia#has_distance_unit___town"
+  ];
+  304 [
+    name="http://travel.org/russia#_1_pm"
+  ];
+  305 [
+    name="http://travel.org/russia#titanic"
+  ];
+  306 [
+    name="http://travel.org/russia#visa"
+  ];
+  307 [
+    name="http://travel.org/russia#has_unit___time"
+  ];
+  308 [
+    name="http://travel.org/russia#March"
+  ];
+  309 [
+    name="http://travel.org/russia#vegetable"
+  ];
+  310 [
+    name="http://travel.org/russia#lie_in"
+  ];
+  311 [
+    name="http://travel.org/russia#normal_traveler"
+  ];
+  312 [
+    name="http://travel.org/russia#sq_mi"
+  ];
+  313 [
+    name="http://travel.org/russia#drink"
+  ];
+  314 [
+    name="http://travel.org/russia#has_sight___city"
+  ];
+  315 [
+    name="http://travel.org/russia#Area_of_Russia"
+  ];
+  316 [
+    name="http://travel.org/russia#religion"
+  ];
+  317 [
+    name="http://travel.org/russia#cooperative_restaurant"
+  ];
+  318 [
+    name="http://travel.org/russia#Turgenev"
+  ];
+  319 [
+    name="http://travel.org/russia#_7_am"
+  ];
+  320 [
+    name="http://travel.org/russia#ballet_company"
+  ];
+  321 [
+    name="http://travel.org/russia#has_beginn"
+  ];
+  322 [
+    name="http://travel.org/russia#Museam_of_Wooden_Architecture"
+  ];
+  323 [
+    name="http://travel.org/russia#Onion_Dom"
+  ];
+  324 [
+    name="http://travel.org/russia#cure"
+  ];
+  325 [
+    name="http://travel.org/russia#Tchaikovsky_Concert_Hall"
+  ];
+  326 [
+    name="http://travel.org/russia#visual_decorative_art"
+  ];
+  327 [
+    name="http://travel.org/russia#_10_pm"
+  ];
+  328 [
+    name="http://travel.org/russia#disease_type"
+  ];
+  329 [
+    name="http://travel.org/russia#wooden_Architecture"
+  ];
+  330 [
+    name="http://travel.org/russia#hiking"
+  ];
+  331 [
+    name="http://travel.org/russia#Hat"
+  ];
+  332 [
+    name="http://travel.org/russia#disco"
+  ];
+  333 [
+    name="http://travel.org/russia#Irkutsk"
+  ];
+  334 [
+    name="http://travel.org/russia#minute"
+  ];
+  335 [
+    name="http://travel.org/russia#inspector"
+  ];
+  336 [
+    name="http://travel.org/russia#Kazan"
+  ];
+  337 [
+    name="http://travel.org/russia#author"
+  ];
+  338 [
+    name="http://travel.org/russia#hunting"
+  ];
+  339 [
+    name="http://travel.org/russia#unit"
+  ];
+  340 [
+    name="http://travel.org/russia#Scarves"
+  ];
+  341 [
+    name="http://travel.org/russia#History_of_Arms_Museum"
+  ];
+  342 [
+    name="http://travel.org/russia#animal"
+  ];
+  343 [
+    name="http://travel.org/russia#Izmailovski_Stadium"
+  ];
+  344 [
+    name="http://travel.org/russia#Moscow"
+  ];
+  345 [
+    name="http://travel.org/russia#_3months_visa"
+  ];
+  346 [
+    name="http://travel.org/russia#Hermitage_Museum"
+  ];
+  347 [
+    name="http://travel.org/russia#ballet"
+  ];
+  348 [
+    name="http://travel.org/russia#Canada"
+  ];
+  349 [
+    name="http://travel.org/russia#sea"
+  ];
+  350 [
+    name="http://travel.org/russia#Russian_Ruble"
+  ];
+  351 [
+    name="http://travel.org/russia#June"
+  ];
+  352 [
+    name="http://travel.org/russia#Summer_Garden"
+  ];
+  353 [
+    name="http://travel.org/russia#valley"
+  ];
+  354 [
+    name="http://travel.org/russia#surface_area"
+  ];
+  355 [
+    name="http://travel.org/russia#has_name___recreation"
+  ];
+  356 [
+    name="http://travel.org/russia#swimming"
+  ];
+  357 [
+    name="http://travel.org/russia#Cellular_Phone"
+  ];
+  358 [
+    name="http://travel.org/russia#novel"
+  ];
+  359 [
+    name="http://travel.org/russia#_2_am"
+  ];
+  360 [
+    name="http://travel.org/russia#November"
+  ];
+  361 [
+    name="http://travel.org/russia#literature"
+  ];
+  362 [
+    name="http://travel.org/russia#Old_Circus"
+  ];
+  363 [
+    name="http://travel.org/russia#inch"
+  ];
+  364 [
+    name="http://travel.org/russia#Tuesday"
+  ];
+  365 [
+    name="http://travel.org/russia#end_point"
+  ];
+  366 [
+    name="http://travel.org/russia#monument"
+  ];
+  367 [
+    name="http://travel.org/russia#_5_pm"
+  ];
+  368 [
+    name="http://travel.org/russia#archipelago"
+  ];
+  369 [
+    name="http://travel.org/russia#Arbat"
+  ];
+  370 [
+    name="http://travel.org/russia#restaurant"
+  ];
+  371 [
+    name="http://travel.org/russia#garden"
+  ];
+  372 [
+    name="http://travel.org/russia#has_student"
+  ];
+  373 [
+    name="http://travel.org/russia#has_name___material"
+  ];
+  374 [
+    name="http://travel.org/russia#concert_hall"
+  ];
+  375 [
+    name="http://travel.org/russia#has_name___disease"
+  ];
+  376 [
+    name="http://travel.org/russia#Spring"
+  ];
+  377 [
+    name="http://travel.org/russia#ski"
+  ];
+  378 [
+    name="http://travel.org/russia#wooden_Church"
+  ];
+  379 [
+    name="http://travel.org/russia#_11_am"
+  ];
+  380 [
+    name="http://travel.org/russia#has_departure"
+  ];
+  381 [
+    name="http://travel.org/russia#robber"
+  ];
+  382 [
+    name="http://travel.org/russia#Dombai"
+  ];
+  383 [
+    name="http://travel.org/russia#river"
+  ];
+  384 [
+    name="http://travel.org/russia#War_and_Pearce"
+  ];
+  385 [
+    name="http://travel.org/russia#Volga_Cruise"
+  ];
+  386 [
+    name="http://travel.org/russia#Gun_Monument"
+  ];
+  387 [
+    name="http://travel.org/russia#device_to_be_observed"
+  ];
+  388 [
+    name="http://travel.org/russia#dancer"
+  ];
+  389 [
+    name="http://travel.org/russia#fortress"
+  ];
+  390 [
+    name="http://travel.org/russia#cafe"
+  ];
+  391 [
+    name="http://travel.org/russia#has_name___literature"
+  ];
+  392 [
+    name="http://travel.org/russia#has_position_to_moscow___city"
+  ];
+  393 [
+    name="http://travel.org/russia#southwest"
+  ];
+  394 [
+    name="http://travel.org/russia#has_currency"
+  ];
+  395 [
+    name="http://travel.org/russia#electronic_device"
+  ];
+  396 [
+    name="http://travel.org/russia#island"
+  ];
+  397 [
+    name="http://travel.org/russia#area_unit"
+  ];
+  398 [
+    name="http://travel.org/russia#horseback_riding"
+  ];
+  399 [
+    name="http://travel.org/russia#Soviet_Army_Memorabilia"
+  ];
+  400 [
+    name="http://travel.org/russia#mountain"
+  ];
+  401 [
+    name="http://travel.org/russia#has_country"
+  ];
+  402 [
+    name="http://travel.org/russia#culture_and_art"
+  ];
+  403 [
+    name="http://travel.org/russia#has_destination"
+  ];
+  404 [
+    name="http://travel.org/russia#has_population_value"
+  ];
+  405 [
+    name="http://travel.org/russia#handwork"
+  ];
+  406 [
+    name="http://travel.org/russia#time_zone"
+  ];
+  407 [
+    name="http://travel.org/russia#St.Petersburg"
+  ];
+  408 [
+    name="http://travel.org/russia#Shopping_Hours"
+  ];
+  409 [
+    name="http://travel.org/russia#has_distance_to_stpetersburg___palace"
+  ];
+  410 [
+    name="http://travel.org/russia#Wall_Plaque"
+  ];
+  411 [
+    name="http://travel.org/russia#fee_scale"
+  ];
+  412 [
+    name="http://travel.org/russia#Tretyakov_Gallery"
+  ];
+  413 [
+    name="http://travel.org/russia#park"
+  ];
+  414 [
+    name="http://travel.org/russia#czar"
+  ];
+  415 [
+    name="http://travel.org/russia#instrument"
+  ];
+  416 [
+    name="http://travel.org/russia#January"
+  ];
+  417 [
+    name="http://travel.org/russia#has_example"
+  ];
+  418 [
+    name="http://travel.org/russia#has_language"
+  ];
+  419 [
+    name="http://travel.org/russia#is_known_for___public_space"
+  ];
+  420 [
+    name="http://travel.org/russia#_6_am"
+  ];
+  421 [
+    name="http://travel.org/russia#hotel"
+  ];
+  422 [
+    name="http://travel.org/russia#lived_in"
+  ];
+  423 [
+    name="http://travel.org/russia#Murmansk"
+  ];
+  424 [
+    name="http://travel.org/russia#weekday"
+  ];
+  425 [
+    name="http://travel.org/russia#Russian_Winter_Folk_Festival"
+  ];
+  426 [
+    name="http://travel.org/russia#music"
+  ];
+  427 [
+    name="http://travel.org/russia#take_place_at"
+  ];
+  428 [
+    name="http://travel.org/russia#_9_pm"
+  ];
+  429 [
+    name="http://travel.org/russia#tourist_information"
+  ];
+  430 [
+    name="http://travel.org/russia#St_Basil_s_Cathedral"
+  ];
+  431 [
+    name="http://travel.org/russia#Autumn"
+  ];
+  432 [
+    name="http://travel.org/russia#is_close_to"
+  ];
+  433 [
+    name="http://travel.org/russia#certificate"
+  ];
+  434 [
+    name="http://travel.org/russia#train_travel"
+  ];
+  435 [
+    name="http://travel.org/russia#Souvenir"
+  ];
+  436 [
+    name="http://travel.org/russia#air_travel"
+  ];
+  437 [
+    name="http://travel.org/russia#folk_music"
+  ];
+  438 [
+    name="http://travel.org/russia#has_training_place"
+  ];
+  439 [
+    name="http://travel.org/russia#Mariinsky_Theatre"
+  ];
+  440 [
+    name="http://travel.org/russia#Meta_Sculpture"
+  ];
+  441 [
+    name="http://travel.org/russia#document"
+  ];
+  442 [
+    name="http://travel.org/russia#has_tel_code"
+  ];
+  443 [
+    name="http://travel.org/russia#live_music"
+  ];
+  444 [
+    name="http://travel.org/russia#Grand_Moscow_State_Circus"
+  ];
+  445 [
+    name="http://travel.org/russia#Gorky_Park"
+  ];
+  446 [
+    name="http://travel.org/russia#currency"
+  ];
+  447 [
+    name="http://travel.org/russia#Leo_Tolstoy"
+  ];
+  448 [
+    name="http://travel.org/russia#activity"
+  ];
+  449 [
+    name="http://travel.org/russia#registered_through"
+  ];
+  450 [
+    name="http://travel.org/russia#attend_performance_at"
+  ];
+  451 [
+    name="http://travel.org/russia#April"
+  ];
+  452 [
+    name="http://travel.org/russia#_24_Hour_Convenience_Store"
+  ];
+  453 [
+    name="http://travel.org/russia#_1_am"
+  ];
+  454 [
+    name="http://travel.org/russia#Traditional_Folk_Singing"
+  ];
+  455 [
+    name="http://travel.org/russia#Marc"
+  ];
+  456 [
+    name="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+  ];
+  457 [
+    name="http://www.w3.org/2000/01/rdf-schema#label"
+  ];
+  458 [
+    name="http://www.w3.org/2000/01/rdf-schema#subPropertyOf"
+  ];
+  459 [
+    name="http://www.w3.org/2000/01/rdf-schema#domain"
+  ];
+  460 [
+    name="http://www.w3.org/2000/01/rdf-schema#range"
+  ];
+  461 [
+    name="http://www.w3.org/2000/01/rdf-schema#subClassOf"
+  ];
+
+  0 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  0 -> 457 [
+    V3=take_place_on
+    V4=en
+  ];
+  0 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  0 -> 459 [
+    V3="http://travel.org/russia#festival"
+    V4=
+  ];
+  0 -> 460 [
+    V3="http://travel.org/russia#time_slot"
+    V4=
+  ];
+  1 -> 457 [
+    V3=south
+    V4=en
+  ];
+  1 -> 456 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  2 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  2 -> 457 [
+    V3=recreation_sports
+    V4=en
+  ];
+  2 -> 461 [
+    V3="http://travel.org/russia#Spiritual_Product"
+    V4=
+  ];
+  3 -> 457 [
+    V3=southeast
+    V4=en
+  ];
+  3 -> 456 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  4 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  4 -> 457 [
+    V3=foreign_business_person
+    V4=en
+  ];
+  4 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  5 -> 457 [
+    V3="4 pm"
+    V4=en
+  ];
+  5 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  6 -> 457 [
+    V3=Panorama_Restaurant
+    V4=en
+  ];
+  6 -> 456 [
+    V3="http://travel.org/russia#restaurant"
+    V4=
+  ];
+  6 -> 82 [
+    V3="Panorama Restaurant"
+    V4=
+  ];
+  6 -> 310 [
+    V3="http://travel.org/russia#Murmansk"
+    V4=
+  ];
+  7 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  7 -> 457 [
+    V3=Dimension
+    V4=en
+  ];
+  7 -> 461 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_CONCEPT"
+    V4=
+  ];
+  8 -> 457 [
+    V3=Kremlin
+    V4=en
+  ];
+  8 -> 456 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  8 -> 82 [
+    V3=Kremlin
+    V4=
+  ];
+  8 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  9 -> 457 [
+    V3=Dollar
+    V4=en
+  ];
+  9 -> 456 [
+    V3="http://travel.org/russia#currency"
+    V4=
+  ];
+  10 -> 457 [
+    V3=October
+    V4=en
+  ];
+  10 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  10 -> 151 [
+    V3=false
+    V4=
+  ];
+  11 -> 457 [
+    V3=Russia
+    V4=en
+  ];
+  11 -> 456 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  11 -> 296 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  11 -> 404 [
+    V3="146,861,022"
+    V4=
+  ];
+  11 -> 442 [
+    V3=7
+    V4=
+  ];
+  12 -> 457 [
+    V3=Saturday
+    V4=en
+  ];
+  12 -> 456 [
+    V3="http://travel.org/russia#weekday"
+    V4=
+  ];
+  13 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  13 -> 457 [
+    V3=language
+    V4=en
+  ];
+  13 -> 461 [
+    V3="http://travel.org/russia#overview"
+    V4=
+  ];
+  14 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  14 -> 457 [
+    V3=be_needed_for
+    V4=en
+  ];
+  14 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  14 -> 459 [
+    V3="http://travel.org/russia#certificate"
+    V4=
+  ];
+  14 -> 460 [
+    V3="http://travel.org/russia#device_to_be_observed"
+    V4=
+  ];
+  15 -> 457 [
+    V3=Suzdal
+    V4=en
+  ];
+  15 -> 456 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  15 -> 277 [
+    V3=220
+    V4=
+  ];
+  15 -> 204 [
+    V3="http://travel.org/russia#northeast"
+    V4=
+  ];
+  15 -> 55 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  15 -> 82 [
+    V3=Suzdal
+    V4=
+  ];
+  15 -> 303 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  16 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  16 -> 457 [
+    V3=hard_currency_restaurant
+    V4=en
+  ];
+  16 -> 461 [
+    V3="http://travel.org/russia#restaurant"
+    V4=
+  ];
+  17 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  17 -> 457 [
+    V3=open_hour
+    V4=en
+  ];
+  17 -> 461 [
+    V3="http://travel.org/russia#time_slot"
+    V4=
+  ];
+  17 -> 461 [
+    V3="http://travel.org/russia#consumption_information"
+    V4=
+  ];
+  18 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  18 -> 457 [
+    V3=has_end
+    V4=en
+  ];
+  18 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  18 -> 459 [
+    V3="http://travel.org/russia#time_slot"
+    V4=
+  ];
+  18 -> 460 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  19 -> 457 [
+    V3=Carnival
+    V4=en
+  ];
+  19 -> 456 [
+    V3="http://travel.org/russia#festival"
+    V4=
+  ];
+  20 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  20 -> 457 [
+    V3=has_value___time_point
+    V4=en
+  ];
+  20 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  20 -> 459 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  20 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  21 -> 457 [
+    V3=northwest
+    V4=en
+  ];
+  21 -> 456 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  22 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  22 -> 457 [
+    V3=about_health
+    V4=en
+  ];
+  22 -> 461 [
+    V3="http://travel.org/russia#tourist_information"
+    V4=
+  ];
+  23 -> 457 [
+    V3="10 am"
+    V4=en
+  ];
+  23 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  24 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  24 -> 457 [
+    V3=has_duration_value
+    V4=en
+  ];
+  24 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  24 -> 459 [
+    V3="http://travel.org/russia#cruise"
+    V4=
+  ];
+  24 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  25 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  25 -> 457 [
+    V3=meat
+    V4=en
+  ];
+  25 -> 461 [
+    V3="http://travel.org/russia#food"
+    V4=
+  ];
+  26 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  26 -> 457 [
+    V3=village
+    V4=en
+  ];
+  26 -> 461 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  27 -> 457 [
+    V3=Vladimir
+    V4=en
+  ];
+  27 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  27 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  27 -> 82 [
+    V3=Vladimir
+    V4=
+  ];
+  27 -> 404 [
+    V3="343,000"
+    V4=
+  ];
+  27 -> 301 [
+    V3=170
+    V4=
+  ];
+  27 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  27 -> 392 [
+    V3="http://travel.org/russia#northwest"
+    V4=
+  ];
+  27 -> 314 [
+    V3="http://travel.org/russia#St_Demetrius_Cathedral"
+    V4=
+  ];
+  28 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  28 -> 457 [
+    V3=physician
+    V4=en
+  ];
+  28 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  29 -> 457 [
+    V3=Berlin
+    V4=en
+  ];
+  29 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  29 -> 250 [
+    V3="http://travel.org/russia#Germany"
+    V4=
+  ];
+  29 -> 82 [
+    V3=Berlin
+    V4=
+  ];
+  30 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  30 -> 457 [
+    V3=has_position_to_stpetersburg___palace
+    V4=en
+  ];
+  30 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  30 -> 459 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  30 -> 460 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  31 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  31 -> 457 [
+    V3=geographical_environment
+    V4=en
+  ];
+  31 -> 461 [
+    V3="http://travel.org/russia#region"
+    V4=
+  ];
+  32 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  32 -> 457 [
+    V3=convenience_store
+    V4=en
+  ];
+  32 -> 461 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  33 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  33 -> 457 [
+    V3=credit_card
+    V4=en
+  ];
+  33 -> 461 [
+    V3="http://travel.org/russia#means_of_payment"
+    V4=
+  ];
+  34 -> 457 [
+    V3=Pushkin_Palace
+    V4=en
+  ];
+  34 -> 456 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  34 -> 409 [
+    V3=30
+    V4=
+  ];
+  34 -> 216 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  34 -> 82 [
+    V3=Pushkin
+    V4=
+  ];
+  35 -> 457 [
+    V3=west
+    V4=en
+  ];
+  35 -> 456 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  36 -> 457 [
+    V3=Moscow_Conservatory
+    V4=en
+  ];
+  36 -> 456 [
+    V3="http://travel.org/russia#conservatory"
+    V4=
+  ];
+  37 -> 457 [
+    V3=Vosstaniye_Square
+    V4=en
+  ];
+  37 -> 456 [
+    V3="http://travel.org/russia#square"
+    V4=
+  ];
+  37 -> 82 [
+    V3="Vosstaniye Square"
+    V4=
+  ];
+  37 -> 310 [
+    V3="http://travel.org/russia#Tula"
+    V4=
+  ];
+  38 -> 457 [
+    V3=kilo_meter
+    V4=en
+  ];
+  38 -> 456 [
+    V3="http://travel.org/russia#length_unit"
+    V4=
+  ];
+  39 -> 457 [
+    V3=Peter_the_Great
+    V4=en
+  ];
+  39 -> 456 [
+    V3="http://travel.org/russia#czar"
+    V4=
+  ];
+  40 -> 457 [
+    V3=Caspian_Sea
+    V4=en
+  ];
+  40 -> 456 [
+    V3="http://travel.org/russia#sea"
+    V4=
+  ];
+  41 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  41 -> 457 [
+    V3=shopping_mall
+    V4=en
+  ];
+  41 -> 461 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  42 -> 457 [
+    V3=GPS
+    V4=en
+  ];
+  42 -> 456 [
+    V3="http://travel.org/russia#device_to_be_observed"
+    V4=
+  ];
+  43 -> 457 [
+    V3=meter
+    V4=en
+  ];
+  43 -> 456 [
+    V3="http://travel.org/russia#length_unit"
+    V4=
+  ];
+  44 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  44 -> 457 [
+    V3=consumption_information
+    V4=en
+  ];
+  44 -> 461 [
+    V3="http://travel.org/russia#overview"
+    V4=
+  ];
+  45 -> 457 [
+    V3=Caviar
+    V4=en
+  ];
+  45 -> 456 [
+    V3="http://travel.org/russia#food"
+    V4=
+  ];
+  46 -> 457 [
+    V3=Pavlovsk_Palace
+    V4=en
+  ];
+  46 -> 456 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  46 -> 82 [
+    V3="Pavlovsk Palace"
+    V4=
+  ];
+  46 -> 409 [
+    V3=30
+    V4=
+  ];
+  46 -> 216 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  46 -> 30 [
+    V3="http://travel.org/russia#southeast"
+    V4=
+  ];
+  47 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  47 -> 457 [
+    V3=square
+    V4=en
+  ];
+  47 -> 461 [
+    V3="http://travel.org/russia#public_place"
+    V4=
+  ];
+  48 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  48 -> 457 [
+    V3=passport
+    V4=en
+  ];
+  48 -> 461 [
+    V3="http://travel.org/russia#document"
+    V4=
+  ];
+  49 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  49 -> 457 [
+    V3=lake
+    V4=en
+  ];
+  49 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  50 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  50 -> 457 [
+    V3=university
+    V4=en
+  ];
+  50 -> 461 [
+    V3="http://travel.org/russia#public_place"
+    V4=
+  ];
+  51 -> 457 [
+    V3=Banking_Hours_special
+    V4=en
+  ];
+  51 -> 456 [
+    V3="http://travel.org/russia#open_hour"
+    V4=
+  ];
+  51 -> 321 [
+    V3="http://travel.org/russia#_9_am"
+    V4=
+  ];
+  51 -> 18 [
+    V3="http://travel.org/russia#_2_pm"
+    V4=
+  ];
+  51 -> 181 [
+    V3="http://travel.org/russia#o_clock"
+    V4=
+  ];
+  51 -> 99 [
+    V3="http://travel.org/russia#Saturday"
+    V4=
+  ];
+  52 -> 457 [
+    V3=St_Peter_and_Paul_Cathedral
+    V4=en
+  ];
+  52 -> 456 [
+    V3="http://travel.org/russia#cathedral"
+    V4=
+  ];
+  52 -> 82 [
+    V3="St. Peter and Paul Cathedral"
+    V4=
+  ];
+  52 -> 310 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  52 -> 419 [
+    V3="http://travel.org/russia#Peter_the_Great"
+    V4=
+  ];
+  53 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  53 -> 457 [
+    V3=has_position_to_stpetersburg
+    V4=en
+  ];
+  53 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  53 -> 459 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  53 -> 460 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  54 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  54 -> 457 [
+    V3=street
+    V4=en
+  ];
+  54 -> 461 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  55 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  55 -> 457 [
+    V3=belong_to_country___town
+    V4=en
+  ];
+  55 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  55 -> 459 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  55 -> 460 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  56 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  56 -> 457 [
+    V3=has_mouth
+    V4=en
+  ];
+  56 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  56 -> 459 [
+    V3="http://travel.org/russia#river"
+    V4=
+  ];
+  56 -> 460 [
+    V3="http://travel.org/russia#region"
+    V4=
+  ];
+  57 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  57 -> 457 [
+    V3=has_distance_to_stpetersburg___town
+    V4=en
+  ];
+  57 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  57 -> 459 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  57 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  58 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  58 -> 457 [
+    V3=allowed_in_Russia
+    V4=en
+  ];
+  58 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  58 -> 459 [
+    V3="http://travel.org/russia#currency"
+    V4=
+  ];
+  58 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#BOOLEAN"
+    V4=
+  ];
+  59 -> 457 [
+    V3=week
+    V4=en
+  ];
+  59 -> 456 [
+    V3="http://travel.org/russia#time_unit"
+    V4=
+  ];
+  60 -> 457 [
+    V3=second
+    V4=en
+  ];
+  60 -> 456 [
+    V3="http://travel.org/russia#time_unit"
+    V4=
+  ];
+  61 -> 457 [
+    V3=Pushkin
+    V4=en
+  ];
+  61 -> 456 [
+    V3="http://travel.org/russia#author"
+    V4=
+  ];
+  62 -> 457 [
+    V3="5 am"
+    V4=en
+  ];
+  62 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  63 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  63 -> 457 [
+    V3=peninsula
+    V4=en
+  ];
+  63 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  64 -> 457 [
+    V3=English
+    V4=en
+  ];
+  64 -> 456 [
+    V3="http://travel.org/russia#language"
+    V4=
+  ];
+  65 -> 457 [
+    V3=Vladivostok
+    V4=en
+  ];
+  65 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  65 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  65 -> 404 [
+    V3="648,000"
+    V4=
+  ];
+  65 -> 301 [
+    V3="6,400"
+    V4=
+  ];
+  65 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  65 -> 392 [
+    V3="http://travel.org/russia#east"
+    V4=
+  ];
+  66 -> 457 [
+    V3=Bolshoi_Theatre
+    V4=en
+  ];
+  66 -> 456 [
+    V3="http://travel.org/russia#theatre"
+    V4=
+  ];
+  66 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  67 -> 457 [
+    V3=rain_massage
+    V4=en
+  ];
+  67 -> 456 [
+    V3="http://travel.org/russia#water_cure"
+    V4=
+  ];
+  68 -> 457 [
+    V3=St_Demetrius_Cathedral
+    V4=en
+  ];
+  68 -> 456 [
+    V3="http://travel.org/russia#cathedral"
+    V4=
+  ];
+  68 -> 82 [
+    V3="St. Demetrius Cathedral"
+    V4=
+  ];
+  68 -> 419 [
+    V3="http://travel.org/russia#white_Stone_Architecture"
+    V4=
+  ];
+  68 -> 310 [
+    V3="http://travel.org/russia#Vladimir"
+    V4=
+  ];
+  69 -> 457 [
+    V3="8 pm"
+    V4=en
+  ];
+  69 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  70 -> 457 [
+    V3=Vodka
+    V4=en
+  ];
+  70 -> 456 [
+    V3="http://travel.org/russia#drink"
+    V4=
+  ];
+  71 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  71 -> 457 [
+    V3=president
+    V4=en
+  ];
+  71 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  72 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  72 -> 457 [
+    V3=organisation
+    V4=en
+  ];
+  72 -> 461 [
+    V3="http://travel.org/russia#Material"
+    V4=
+  ];
+  73 -> 457 [
+    V3=Sauna
+    V4=en
+  ];
+  73 -> 456 [
+    V3="http://travel.org/russia#entertainment"
+    V4=
+  ];
+  74 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  74 -> 457 [
+    V3=cruise
+    V4=en
+  ];
+  74 -> 461 [
+    V3="http://travel.org/russia#travel_event"
+    V4=
+  ];
+  75 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  75 -> 457 [
+    V3=architecture
+    V4=en
+  ];
+  75 -> 461 [
+    V3="http://travel.org/russia#culture_and_art"
+    V4=
+  ];
+  76 -> 457 [
+    V3=higher
+    V4=en
+  ];
+  76 -> 456 [
+    V3="http://travel.org/russia#fee_scale"
+    V4=
+  ];
+  77 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  77 -> 457 [
+    V3=has_service_object
+    V4=en
+  ];
+  77 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  77 -> 459 [
+    V3="http://travel.org/russia#hard_currency_restaurant"
+    V4=
+  ];
+  77 -> 460 [
+    V3="http://travel.org/russia#foreign_business_person"
+    V4=
+  ];
+  78 -> 457 [
+    V3=Tchaikovsky
+    V4=en
+  ];
+  78 -> 456 [
+    V3="http://travel.org/russia#musician"
+    V4=
+  ];
+  78 -> 124 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  78 -> 373 [
+    V3=Tchaikovsky
+    V4=
+  ];
+  79 -> 457 [
+    V3=Red_Square
+    V4=en
+  ];
+  79 -> 456 [
+    V3="http://travel.org/russia#square"
+    V4=
+  ];
+  79 -> 82 [
+    V3="Red Square"
+    V4=
+  ];
+  79 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  80 -> 457 [
+    V3=February
+    V4=en
+  ];
+  80 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  80 -> 151 [
+    V3=false
+    V4=
+  ];
+  81 -> 457 [
+    V3=Neva
+    V4=en
+  ];
+  81 -> 456 [
+    V3="http://travel.org/russia#river"
+    V4=
+  ];
+  81 -> 82 [
+    V3=Neva
+    V4=
+  ];
+  81 -> 432 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  82 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  82 -> 457 [
+    V3=has_name___region
+    V4=en
+  ];
+  82 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  82 -> 459 [
+    V3="http://travel.org/russia#region"
+    V4=
+  ];
+  82 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#STRING"
+    V4=
+  ];
+  83 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  83 -> 457 [
+    V3=year
+    V4=en
+  ];
+  83 -> 461 [
+    V3="http://travel.org/russia#time_slot"
+    V4=
+  ];
+  84 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  84 -> 457 [
+    V3=market
+    V4=en
+  ];
+  84 -> 461 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  85 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  85 -> 457 [
+    V3=sponsor
+    V4=en
+  ];
+  85 -> 461 [
+    V3="http://travel.org/russia#organisation"
+    V4=
+  ];
+  86 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  86 -> 457 [
+    V3=club
+    V4=en
+  ];
+  86 -> 461 [
+    V3="http://travel.org/russia#place_for_nightlife"
+    V4=
+  ];
+  87 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  87 -> 457 [
+    V3=founded_by
+    V4=en
+  ];
+  87 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  87 -> 459 [
+    V3="http://travel.org/russia#museum"
+    V4=
+  ];
+  87 -> 460 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  88 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  88 -> 457 [
+    V3=theatre
+    V4=en
+  ];
+  88 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  89 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  89 -> 457 [
+    V3=cash
+    V4=en
+  ];
+  89 -> 461 [
+    V3="http://travel.org/russia#means_of_payment"
+    V4=
+  ];
+  90 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  90 -> 457 [
+    V3=public_space
+    V4=en
+  ];
+  90 -> 461 [
+    V3="http://travel.org/russia#region"
+    V4=
+  ];
+  91 -> 457 [
+    V3=Germany
+    V4=en
+  ];
+  91 -> 456 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  91 -> 442 [
+    V3=49
+    V4=
+  ];
+  92 -> 457 [
+    V3=hand_painted_Lacquerware
+    V4=en
+  ];
+  92 -> 456 [
+    V3="http://travel.org/russia#handwork"
+    V4=
+  ];
+  93 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  93 -> 457 [
+    V3=church
+    V4=en
+  ];
+  93 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  94 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  94 -> 457 [
+    V3=tower
+    V4=en
+  ];
+  94 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  95 -> 457 [
+    V3=north
+    V4=en
+  ];
+  95 -> 456 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  96 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  96 -> 457 [
+    V3=be_showed_in___opera
+    V4=en
+  ];
+  96 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  96 -> 459 [
+    V3="http://travel.org/russia#opera"
+    V4=
+  ];
+  96 -> 460 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  97 -> 457 [
+    V3=northeast
+    V4=en
+  ];
+  97 -> 456 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  98 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  98 -> 457 [
+    V3=month
+    V4=en
+  ];
+  98 -> 461 [
+    V3="http://travel.org/russia#time_slot"
+    V4=
+  ];
+  99 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  99 -> 457 [
+    V3=is_on_weekday
+    V4=en
+  ];
+  99 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  99 -> 459 [
+    V3="http://travel.org/russia#open_hour"
+    V4=
+  ];
+  99 -> 460 [
+    V3="http://travel.org/russia#weekday"
+    V4=
+  ];
+  100 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  100 -> 457 [
+    V3=canal
+    V4=en
+  ];
+  100 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  101 -> 457 [
+    V3=mud_bath
+    V4=en
+  ];
+  101 -> 456 [
+    V3="http://travel.org/russia#rest_cure"
+    V4=
+  ];
+  102 -> 457 [
+    V3=mile
+    V4=en
+  ];
+  102 -> 456 [
+    V3="http://travel.org/russia#length_unit"
+    V4=
+  ];
+  103 -> 457 [
+    V3=hydrotherapy_bath
+    V4=en
+  ];
+  103 -> 456 [
+    V3="http://travel.org/russia#rest_cure"
+    V4=
+  ];
+  104 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  104 -> 457 [
+    V3=town
+    V4=en
+  ];
+  104 -> 461 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  105 -> 457 [
+    V3=Lake_Onega
+    V4=en
+  ];
+  105 -> 456 [
+    V3="http://travel.org/russia#lake"
+    V4=
+  ];
+  105 -> 82 [
+    V3=Onega
+    V4=
+  ];
+  105 -> 432 [
+    V3="http://travel.org/russia#Kizhi"
+    V4=
+  ];
+  106 -> 457 [
+    V3=Kazan_Kremlin
+    V4=en
+  ];
+  106 -> 456 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  106 -> 82 [
+    V3="Kremlin Kazan"
+    V4=
+  ];
+  106 -> 310 [
+    V3="http://travel.org/russia#Kazan"
+    V4=
+  ];
+  107 -> 457 [
+    V3=Russian
+    V4=en
+  ];
+  107 -> 456 [
+    V3="http://travel.org/russia#language"
+    V4=
+  ];
+  108 -> 457 [
+    V3=Novosibirsk
+    V4=en
+  ];
+  108 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  108 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  108 -> 82 [
+    V3=Novosibirsk
+    V4=
+  ];
+  108 -> 404 [
+    V3="1,436,000"
+    V4=
+  ];
+  108 -> 301 [
+    V3="2,830"
+    V4=
+  ];
+  108 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  108 -> 392 [
+    V3="http://travel.org/russia#east"
+    V4=
+  ];
+  109 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  109 -> 457 [
+    V3=palace
+    V4=en
+  ];
+  109 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  110 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  110 -> 457 [
+    V3=has_duration_unit
+    V4=en
+  ];
+  110 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  110 -> 459 [
+    V3="http://travel.org/russia#cruise"
+    V4=
+  ];
+  110 -> 460 [
+    V3="http://travel.org/russia#time_unit"
+    V4=
+  ];
+  111 -> 457 [
+    V3=Griboyedova_Canal
+    V4=en
+  ];
+  111 -> 456 [
+    V3="http://travel.org/russia#canal"
+    V4=
+  ];
+  111 -> 82 [
+    V3="Griboyedova Kanal"
+    V4=
+  ];
+  111 -> 432 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  112 -> 457 [
+    V3="3 pm"
+    V4=en
+  ];
+  112 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  113 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  113 -> 457 [
+    V3=place_for_nightlife
+    V4=en
+  ];
+  113 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  114 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  114 -> 457 [
+    V3=has_value___area
+    V4=en
+  ];
+  114 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  114 -> 459 [
+    V3="http://travel.org/russia#surface_area"
+    V4=
+  ];
+  114 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  115 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  115 -> 457 [
+    V3=be_showed_in___dance
+    V4=en
+  ];
+  115 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  115 -> 459 [
+    V3="http://travel.org/russia#dance"
+    V4=
+  ];
+  115 -> 460 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  116 -> 457 [
+    V3=Friday
+    V4=en
+  ];
+  116 -> 456 [
+    V3="http://travel.org/russia#weekday"
+    V4=
+  ];
+  117 -> 457 [
+    V3=Andrei_Sakharov
+    V4=en
+  ];
+  117 -> 456 [
+    V3="http://travel.org/russia#physician"
+    V4=
+  ];
+  117 -> 177 [
+    V3="http://travel.org/russia#Novgorod"
+    V4=
+  ];
+  118 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  118 -> 457 [
+    V3=has_unit___area
+    V4=en
+  ];
+  118 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  118 -> 459 [
+    V3="http://travel.org/russia#surface_area"
+    V4=
+  ];
+  118 -> 460 [
+    V3="http://travel.org/russia#area_unit"
+    V4=
+  ];
+  119 -> 457 [
+    V3=east
+    V4=en
+  ];
+  119 -> 456 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  120 -> 457 [
+    V3=Kremlin_Palace_Theatre
+    V4=en
+  ];
+  120 -> 456 [
+    V3="http://travel.org/russia#theatre"
+    V4=
+  ];
+  120 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  121 -> 457 [
+    V3=Balalaika
+    V4=en
+  ];
+  121 -> 456 [
+    V3="http://travel.org/russia#instrument"
+    V4=
+  ];
+  122 -> 457 [
+    V3=Sunday
+    V4=en
+  ];
+  122 -> 456 [
+    V3="http://travel.org/russia#weekday"
+    V4=
+  ];
+  123 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  123 -> 457 [
+    V3=opera
+    V4=en
+  ];
+  123 -> 461 [
+    V3="http://travel.org/russia#culture_and_art"
+    V4=
+  ];
+  124 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  124 -> 457 [
+    V3=has_birthplace
+    V4=en
+  ];
+  124 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  124 -> 459 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  124 -> 460 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  125 -> 457 [
+    V3="9 am"
+    V4=en
+  ];
+  125 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  126 -> 457 [
+    V3=Volga
+    V4=en
+  ];
+  126 -> 456 [
+    V3="http://travel.org/russia#river"
+    V4=
+  ];
+  126 -> 82 [
+    V3=Volga
+    V4=
+  ];
+  126 -> 432 [
+    V3="http://travel.org/russia#Kazan"
+    V4=
+  ];
+  126 -> 56 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  126 -> 294 [
+    V3="http://travel.org/russia#Caspian_Sea"
+    V4=
+  ];
+  126 -> 432 [
+    V3="http://travel.org/russia#Volgograd"
+    V4=
+  ];
+  127 -> 457 [
+    V3=sq_meter
+    V4=en
+  ];
+  127 -> 456 [
+    V3="http://travel.org/russia#area_unit"
+    V4=
+  ];
+  128 -> 457 [
+    V3=Mikhail_Gorbachev
+    V4=en
+  ];
+  128 -> 456 [
+    V3="http://travel.org/russia#president"
+    V4=
+  ];
+  129 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  129 -> 457 [
+    V3=others
+    V4=en
+  ];
+  129 -> 461 [
+    V3="http://travel.org/russia#consumer_goods"
+    V4=
+  ];
+  130 -> 457 [
+    V3=May
+    V4=en
+  ];
+  130 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  130 -> 151 [
+    V3=true
+    V4=
+  ];
+  131 -> 457 [
+    V3=Bolshoi_Ballet
+    V4=en
+  ];
+  131 -> 456 [
+    V3="http://travel.org/russia#ballet_company"
+    V4=
+  ];
+  131 -> 450 [
+    V3="http://travel.org/russia#Bolshoi_Theatre"
+    V4=
+  ];
+  131 -> 450 [
+    V3="http://travel.org/russia#Kremlin_Palace_Theatre"
+    V4=
+  ];
+  131 -> 373 [
+    V3="Bolshoi Ballet"
+    V4=
+  ];
+  132 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  132 -> 457 [
+    V3=food
+    V4=en
+  ];
+  132 -> 461 [
+    V3="http://travel.org/russia#consumer_goods"
+    V4=
+  ];
+  133 -> 457 [
+    V3="12 pm"
+    V4=en
+  ];
+  133 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  134 -> 457 [
+    V3="St_Isaac's_Cathedral"
+    V4=en
+  ];
+  134 -> 456 [
+    V3="http://travel.org/russia#cathedral"
+    V4=
+  ];
+  134 -> 82 [
+    V3="St. Isaac's Cathedral"
+    V4=
+  ];
+  134 -> 310 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  135 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  135 -> 457 [
+    V3=has_sight___town
+    V4=en
+  ];
+  135 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  135 -> 459 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  135 -> 460 [
+    V3="http://travel.org/russia#public_space"
+    V4=
+  ];
+  136 -> 457 [
+    V3=Kizhi
+    V4=en
+  ];
+  136 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  136 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  136 -> 252 [
+    V3=320
+    V4=
+  ];
+  136 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  136 -> 53 [
+    V3="http://travel.org/russia#northeast"
+    V4=
+  ];
+  136 -> 314 [
+    V3="http://travel.org/russia#wooden_Church"
+    V4=
+  ];
+  137 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  137 -> 457 [
+    V3=length_unit
+    V4=en
+  ];
+  137 -> 461 [
+    V3="http://travel.org/russia#unit"
+    V4=
+  ];
+  138 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  138 -> 457 [
+    V3=classic_music
+    V4=en
+  ];
+  138 -> 461 [
+    V3="http://travel.org/russia#music"
+    V4=
+  ];
+  139 -> 457 [
+    V3=Milkailovsky_Park
+    V4=en
+  ];
+  139 -> 456 [
+    V3="http://travel.org/russia#park"
+    V4=
+  ];
+  139 -> 82 [
+    V3="Mikailovsky Park"
+    V4=
+  ];
+  139 -> 310 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  140 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  140 -> 457 [
+    V3=is_known_for___shopping_place
+    V4=en
+  ];
+  140 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  140 -> 459 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  140 -> 460 [
+    V3="http://travel.org/russia#consumer_goods"
+    V4=
+  ];
+  141 -> 457 [
+    V3=Vitoslavlitsy_Museum
+    V4=en
+  ];
+  141 -> 456 [
+    V3="http://travel.org/russia#museum"
+    V4=
+  ];
+  141 -> 82 [
+    V3="Vitoslavlitsy Museum of Wooden Architecture"
+    V4=
+  ];
+  141 -> 419 [
+    V3="http://travel.org/russia#wooden_Architecture"
+    V4=
+  ];
+  141 -> 310 [
+    V3="http://travel.org/russia#Novgorod"
+    V4=
+  ];
+  142 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  142 -> 457 [
+    V3=dance
+    V4=en
+  ];
+  142 -> 461 [
+    V3="http://travel.org/russia#culture_and_art"
+    V4=
+  ];
+  143 -> 457 [
+    V3=Wood_Sculpture
+    V4=en
+  ];
+  143 -> 456 [
+    V3="http://travel.org/russia#others"
+    V4=
+  ];
+  144 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  144 -> 457 [
+    V3=human_being
+    V4=en
+  ];
+  144 -> 461 [
+    V3="http://travel.org/russia#living_being"
+    V4=
+  ];
+  145 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  145 -> 457 [
+    V3=along_river
+    V4=en
+  ];
+  145 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  145 -> 459 [
+    V3="http://travel.org/russia#cruise"
+    V4=
+  ];
+  145 -> 460 [
+    V3="http://travel.org/russia#river"
+    V4=
+  ];
+  146 -> 457 [
+    V3=Volgograd
+    V4=en
+  ];
+  146 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  146 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  146 -> 404 [
+    V3="1,000,000"
+    V4=
+  ];
+  146 -> 82 [
+    V3=Volgograd
+    V4=
+  ];
+  146 -> 301 [
+    V3=900
+    V4=
+  ];
+  146 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  146 -> 392 [
+    V3="http://travel.org/russia#southeast"
+    V4=
+  ];
+  147 -> 457 [
+    V3=the_Festival_of_the_North
+    V4=en
+  ];
+  147 -> 456 [
+    V3="http://travel.org/russia#festival"
+    V4=
+  ];
+  147 -> 427 [
+    V3="http://travel.org/russia#Murmansk"
+    V4=
+  ];
+  147 -> 0 [
+    V3="http://travel.org/russia#March"
+    V4=
+  ];
+  148 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  148 -> 457 [
+    V3=photocopy
+    V4=en
+  ];
+  148 -> 461 [
+    V3="http://travel.org/russia#document"
+    V4=
+  ];
+  149 -> 457 [
+    V3=Pushkin_Museum
+    V4=en
+  ];
+  149 -> 456 [
+    V3="http://travel.org/russia#museum"
+    V4=
+  ];
+  149 -> 82 [
+    V3="Pushkin Museum"
+    V4=
+  ];
+  149 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  149 -> 218 [
+    V3="http://travel.org/russia#Monday"
+    V4=
+  ];
+  149 -> 419 [
+    V3="http://travel.org/russia#Pushkin"
+    V4=
+  ];
+  150 -> 457 [
+    V3=Beijing
+    V4=en
+  ];
+  150 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  150 -> 250 [
+    V3="http://travel.org/russia#China"
+    V4=
+  ];
+  150 -> 82 [
+    V3=Beijing
+    V4=
+  ];
+  150 -> 442 [
+    V3=001
+    V4=
+  ];
+  151 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  151 -> 457 [
+    V3=is_best_time_for_travel
+    V4=en
+  ];
+  151 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  151 -> 459 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  151 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#BOOLEAN"
+    V4=
+  ];
+  152 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  152 -> 457 [
+    V3=has_position_to_moscow___palace
+    V4=en
+  ];
+  152 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  152 -> 459 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  152 -> 460 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  153 -> 457 [
+    V3=St_Sofia_Cathedral
+    V4=en
+  ];
+  153 -> 456 [
+    V3="http://travel.org/russia#cathedral"
+    V4=
+  ];
+  153 -> 82 [
+    V3="St. Sofia Cathedral"
+    V4=
+  ];
+  153 -> 310 [
+    V3="http://travel.org/russia#Novgorod"
+    V4=
+  ];
+  154 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  154 -> 457 [
+    V3=public_place
+    V4=en
+  ];
+  154 -> 461 [
+    V3="http://travel.org/russia#public_space"
+    V4=
+  ];
+  155 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  155 -> 457 [
+    V3=normal_restaurant
+    V4=en
+  ];
+  155 -> 461 [
+    V3="http://travel.org/russia#restaurant"
+    V4=
+  ];
+  156 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  156 -> 457 [
+    V3=fruit
+    V4=en
+  ];
+  156 -> 461 [
+    V3="http://travel.org/russia#food"
+    V4=
+  ];
+  157 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  157 -> 457 [
+    V3=bar
+    V4=en
+  ];
+  157 -> 461 [
+    V3="http://travel.org/russia#place_for_nightlife"
+    V4=
+  ];
+  158 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  158 -> 457 [
+    V3=has_distance_unit___region
+    V4=en
+  ];
+  158 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  158 -> 459 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  158 -> 460 [
+    V3="http://travel.org/russia#length_unit"
+    V4=
+  ];
+  159 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  159 -> 457 [
+    V3=living_being
+    V4=en
+  ];
+  159 -> 461 [
+    V3="http://travel.org/russia#Material"
+    V4=
+  ];
+  160 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  160 -> 457 [
+    V3=local_store
+    V4=en
+  ];
+  160 -> 461 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  161 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  161 -> 457 [
+    V3=cathedral
+    V4=en
+  ];
+  161 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  162 -> 457 [
+    V3=mineral_bath
+    V4=en
+  ];
+  162 -> 456 [
+    V3="http://travel.org/russia#rest_cure"
+    V4=
+  ];
+  163 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  163 -> 457 [
+    V3=time_point
+    V4=en
+  ];
+  163 -> 461 [
+    V3="http://travel.org/russia#time"
+    V4=
+  ];
+  164 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  164 -> 457 [
+    V3=forest
+    V4=en
+  ];
+  164 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  165 -> 457 [
+    V3=Petrodvorets
+    V4=en
+  ];
+  165 -> 456 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  165 -> 409 [
+    V3=32
+    V4=
+  ];
+  165 -> 30 [
+    V3="http://travel.org/russia#west"
+    V4=
+  ];
+  165 -> 419 [
+    V3="http://travel.org/russia#Wood_Sculpture"
+    V4=
+  ];
+  165 -> 82 [
+    V3=Petrodvorets
+    V4=
+  ];
+  165 -> 216 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  166 -> 457 [
+    V3="4 am"
+    V4=en
+  ];
+  166 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  167 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  167 -> 457 [
+    V3=be_active_at
+    V4=en
+  ];
+  167 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  167 -> 459 [
+    V3="http://travel.org/russia#robber"
+    V4=
+  ];
+  167 -> 460 [
+    V3="http://travel.org/russia#public_place"
+    V4=
+  ];
+  168 -> 457 [
+    V3=Arctic_Circle
+    V4=en
+  ];
+  168 -> 456 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  169 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  169 -> 457 [
+    V3=singing
+    V4=en
+  ];
+  169 -> 461 [
+    V3="http://travel.org/russia#culture_and_art"
+    V4=
+  ];
+  170 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  170 -> 457 [
+    V3=be_included_in
+    V4=en
+  ];
+  170 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  170 -> 459 [
+    V3="http://travel.org/russia#visa"
+    V4=
+  ];
+  170 -> 460 [
+    V3="http://travel.org/russia#passport"
+    V4=
+  ];
+  171 -> 457 [
+    V3="7 pm"
+    V4=en
+  ];
+  171 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  172 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  172 -> 457 [
+    V3=be_showed_in___singing
+    V4=en
+  ];
+  172 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  172 -> 459 [
+    V3="http://travel.org/russia#singing"
+    V4=
+  ];
+  172 -> 460 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  173 -> 457 [
+    V3=Manezh_Square
+    V4=en
+  ];
+  173 -> 456 [
+    V3="http://travel.org/russia#square"
+    V4=
+  ];
+  173 -> 82 [
+    V3="Manezh Square"
+    V4=
+  ];
+  173 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  174 -> 457 [
+    V3=Dostoyevsky
+    V4=en
+  ];
+  174 -> 456 [
+    V3="http://travel.org/russia#author"
+    V4=
+  ];
+  175 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  175 -> 457 [
+    V3=casino
+    V4=en
+  ];
+  175 -> 461 [
+    V3="http://travel.org/russia#place_for_nightlife"
+    V4=
+  ];
+  176 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  176 -> 457 [
+    V3=be_sold_in
+    V4=en
+  ];
+  176 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  176 -> 459 [
+    V3="http://travel.org/russia#consumer_goods"
+    V4=
+  ];
+  176 -> 460 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  177 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  177 -> 457 [
+    V3=live_in
+    V4=en
+  ];
+  177 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  177 -> 459 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  177 -> 460 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  178 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  178 -> 457 [
+    V3=theatre_company
+    V4=en
+  ];
+  178 -> 461 [
+    V3="http://travel.org/russia#artwork_organisation"
+    V4=
+  ];
+  179 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  179 -> 457 [
+    V3=shopping_place
+    V4=en
+  ];
+  179 -> 461 [
+    V3="http://travel.org/russia#public_place"
+    V4=
+  ];
+  180 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  180 -> 457 [
+    V3=be_paid_for
+    V4=en
+  ];
+  180 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  180 -> 459 [
+    V3="http://travel.org/russia#fee_scale"
+    V4=
+  ];
+  180 -> 460 [
+    V3="http://travel.org/russia#public_space"
+    V4=
+  ];
+  181 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  181 -> 457 [
+    V3=has_time_unit
+    V4=en
+  ];
+  181 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  181 -> 459 [
+    V3="http://travel.org/russia#open_hour"
+    V4=
+  ];
+  181 -> 460 [
+    V3="http://travel.org/russia#time_unit"
+    V4=
+  ];
+  182 -> 457 [
+    V3=Orel
+    V4=en
+  ];
+  182 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  182 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  182 -> 301 [
+    V3=340
+    V4=
+  ];
+  182 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  182 -> 392 [
+    V3="http://travel.org/russia#southwest"
+    V4=
+  ];
+  183 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  183 -> 457 [
+    V3=has_distance_to_moscow___palace
+    V4=en
+  ];
+  183 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  183 -> 459 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  183 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  184 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  184 -> 457 [
+    V3=study_at
+    V4=en
+  ];
+  184 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  184 -> 459 [
+    V3="http://travel.org/russia#student"
+    V4=
+  ];
+  184 -> 460 [
+    V3="http://travel.org/russia#university"
+    V4=
+  ];
+  185 -> 457 [
+    V3=normal
+    V4=en
+  ];
+  185 -> 456 [
+    V3="http://travel.org/russia#fee_scale"
+    V4=
+  ];
+  186 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  186 -> 457 [
+    V3=rock
+    V4=en
+  ];
+  186 -> 461 [
+    V3="http://travel.org/russia#live_music"
+    V4=
+  ];
+  187 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  187 -> 457 [
+    V3=season
+    V4=en
+  ];
+  187 -> 461 [
+    V3="http://travel.org/russia#time_slot"
+    V4=
+  ];
+  188 -> 457 [
+    V3=ice_skating
+    V4=en
+  ];
+  188 -> 456 [
+    V3="http://travel.org/russia#sport"
+    V4=
+  ];
+  188 -> 438 [
+    V3="http://travel.org/russia#Gorky_Park"
+    V4=
+  ];
+  189 -> 457 [
+    V3=Winter_Palace
+    V4=en
+  ];
+  189 -> 456 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  189 -> 82 [
+    V3="the Winter Palace"
+    V4=
+  ];
+  189 -> 310 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  190 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  190 -> 457 [
+    V3=13
+    V4=en
+  ];
+  190 -> 461 [
+    V3="http://travel.org/russia#live_music"
+    V4=
+  ];
+  191 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  191 -> 457 [
+    V3=Spiritual_Product
+    V4=en
+  ];
+  191 -> 461 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_CONCEPT"
+    V4=
+  ];
+  192 -> 457 [
+    V3="o'clock"
+    V4=en
+  ];
+  192 -> 456 [
+    V3="http://travel.org/russia#time_unit"
+    V4=
+  ];
+  193 -> 457 [
+    V3=Lake_Baikal
+    V4=en
+  ];
+  193 -> 456 [
+    V3="http://travel.org/russia#lake"
+    V4=
+  ];
+  193 -> 82 [
+    V3=Baikal
+    V4=
+  ];
+  193 -> 432 [
+    V3="http://travel.org/russia#Irkutsk"
+    V4=
+  ];
+  194 -> 457 [
+    V3=Tula
+    V4=en
+  ];
+  194 -> 456 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  194 -> 55 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  194 -> 404 [
+    V3="540,000"
+    V4=
+  ];
+  194 -> 135 [
+    V3="http://travel.org/russia#History_of_Arms_Museum"
+    V4=
+  ];
+  194 -> 135 [
+    V3="http://travel.org/russia#Vosstaniye_Square"
+    V4=
+  ];
+  194 -> 277 [
+    V3=180
+    V4=
+  ];
+  194 -> 303 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  194 -> 204 [
+    V3="http://travel.org/russia#south"
+    V4=
+  ];
+  195 -> 457 [
+    V3=China
+    V4=en
+  ];
+  195 -> 456 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  195 -> 442 [
+    V3=86
+    V4=
+  ];
+  196 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  196 -> 457 [
+    V3=time_unit
+    V4=en
+  ];
+  196 -> 461 [
+    V3="http://travel.org/russia#unit"
+    V4=
+  ];
+  197 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  197 -> 457 [
+    V3=consumer_goods
+    V4=en
+  ];
+  197 -> 461 [
+    V3="http://travel.org/russia#Material"
+    V4=
+  ];
+  198 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  198 -> 457 [
+    V3=conservatory
+    V4=en
+  ];
+  198 -> 461 [
+    V3="http://travel.org/russia#artwork_organisation"
+    V4=
+  ];
+  199 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  200 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  200 -> 457 [
+    V3=Material
+    V4=en
+  ];
+  200 -> 461 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_CONCEPT"
+    V4=
+  ];
+  201 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  201 -> 457 [
+    V3=artwork_organisation
+    V4=en
+  ];
+  201 -> 461 [
+    V3="http://travel.org/russia#organisation"
+    V4=
+  ];
+  202 -> 457 [
+    V3=December
+    V4=en
+  ];
+  202 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  202 -> 151 [
+    V3=false
+    V4=
+  ];
+  203 -> 457 [
+    V3=Wednsday
+    V4=en
+  ];
+  203 -> 456 [
+    V3="http://travel.org/russia#weekday"
+    V4=
+  ];
+  204 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  204 -> 457 [
+    V3=has_position_to_moscow___town
+    V4=en
+  ];
+  204 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  204 -> 459 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  204 -> 460 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  205 -> 457 [
+    V3=Monument_to_Peter_the_Great
+    V4=en
+  ];
+  205 -> 456 [
+    V3="http://travel.org/russia#monument"
+    V4=
+  ];
+  205 -> 82 [
+    V3="Monument to Peter the Great"
+    V4=
+  ];
+  205 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  206 -> 457 [
+    V3=Kamchatka_Peninsula
+    V4=en
+  ];
+  206 -> 456 [
+    V3="http://travel.org/russia#peninsula"
+    V4=
+  ];
+  207 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  208 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  208 -> 457 [
+    V3=beginn_point
+    V4=en
+  ];
+  208 -> 461 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  209 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  209 -> 457 [
+    V3=travel_event
+    V4=en
+  ];
+  209 -> 461 [
+    V3="http://travel.org/russia#activity"
+    V4=
+  ];
+  210 -> 457 [
+    V3=Pyatigorsk
+    V4=en
+  ];
+  210 -> 456 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  211 -> 457 [
+    V3=Trans_Siberian
+    V4=en
+  ];
+  211 -> 456 [
+    V3="http://travel.org/russia#train_travel"
+    V4=
+  ];
+  211 -> 355 [
+    V3="Trans Siberian"
+    V4=
+  ];
+  211 -> 248 [
+    V3="http://travel.org/russia#Irkutsk"
+    V4=
+  ];
+  211 -> 248 [
+    V3="http://travel.org/russia#Novosibirsk"
+    V4=
+  ];
+  212 -> 457 [
+    V3=Samovar
+    V4=en
+  ];
+  212 -> 456 [
+    V3="http://travel.org/russia#others"
+    V4=
+  ];
+  213 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  213 -> 457 [
+    V3=simple_consumer_device
+    V4=en
+  ];
+  213 -> 461 [
+    V3="http://travel.org/russia#electronic_device"
+    V4=
+  ];
+  214 -> 457 [
+    V3=Monday
+    V4=en
+  ];
+  214 -> 456 [
+    V3="http://travel.org/russia#weekday"
+    V4=
+  ];
+  215 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  215 -> 457 [
+    V3=means_of_payment
+    V4=en
+  ];
+  215 -> 461 [
+    V3="http://travel.org/russia#consumption_information"
+    V4=
+  ];
+  216 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  216 -> 457 [
+    V3=has_length_unit___palace
+    V4=en
+  ];
+  216 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  216 -> 459 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  216 -> 460 [
+    V3="http://travel.org/russia#length_unit"
+    V4=
+  ];
+  217 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  217 -> 457 [
+    V3=cititzen_of_russia
+    V4=en
+  ];
+  217 -> 461 [
+    V3="http://travel.org/russia#sponsor"
+    V4=
+  ];
+  218 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  218 -> 457 [
+    V3=closed_on
+    V4=en
+  ];
+  218 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  218 -> 459 [
+    V3="http://travel.org/russia#museum"
+    V4=
+  ];
+  218 -> 460 [
+    V3="http://travel.org/russia#weekday"
+    V4=
+  ];
+  219 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  219 -> 457 [
+    V3=circuse
+    V4=en
+  ];
+  219 -> 461 [
+    V3="http://travel.org/russia#travel_event"
+    V4=
+  ];
+  220 -> 457 [
+    V3="2 pm"
+    V4=en
+  ];
+  220 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  221 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  221 -> 457 [
+    V3=entertainment
+    V4=en
+  ];
+  221 -> 461 [
+    V3="http://travel.org/russia#activity"
+    V4=
+  ];
+  222 -> 457 [
+    V3=Petrozavodsk
+    V4=en
+  ];
+  222 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  223 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  223 -> 457 [
+    V3=tour_company
+    V4=en
+  ];
+  223 -> 461 [
+    V3="http://travel.org/russia#sponsor"
+    V4=
+  ];
+  224 -> 457 [
+    V3=University_of_Kazan
+    V4=en
+  ];
+  224 -> 456 [
+    V3="http://travel.org/russia#university"
+    V4=
+  ];
+  225 -> 457 [
+    V3=Yakutsk
+    V4=en
+  ];
+  225 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  225 -> 301 [
+    V3="4,900"
+    V4=
+  ];
+  225 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  225 -> 392 [
+    V3="http://travel.org/russia#northeast"
+    V4=
+  ];
+  225 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  225 -> 404 [
+    V3="188,000"
+    V4=
+  ];
+  226 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  226 -> 457 [
+    V3=museum
+    V4=en
+  ];
+  226 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  227 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  227 -> 457 [
+    V3=musician
+    V4=en
+  ];
+  227 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  228 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  228 -> 457 [
+    V3=sport
+    V4=en
+  ];
+  228 -> 461 [
+    V3="http://travel.org/russia#activity"
+    V4=
+  ];
+  229 -> 457 [
+    V3="8 am"
+    V4=en
+  ];
+  229 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  230 -> 457 [
+    V3=A_Month_in_the_Country
+    V4=en
+  ];
+  230 -> 456 [
+    V3="http://travel.org/russia#novel"
+    V4=
+  ];
+  231 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  231 -> 457 [
+    V3=interred_in
+    V4=en
+  ];
+  231 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  231 -> 459 [
+    V3="http://travel.org/russia#czar"
+    V4=
+  ];
+  231 -> 460 [
+    V3="http://travel.org/russia#cathedral"
+    V4=
+  ];
+  232 -> 457 [
+    V3=Hungry_Duck
+    V4=en
+  ];
+  232 -> 456 [
+    V3="http://travel.org/russia#rock"
+    V4=
+  ];
+  233 -> 457 [
+    V3=white_Stone_Architecture
+    V4=en
+  ];
+  233 -> 456 [
+    V3="http://travel.org/russia#architecture"
+    V4=
+  ];
+  234 -> 457 [
+    V3="U.S.A."
+    V4=en
+  ];
+  234 -> 456 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  235 -> 457 [
+    V3=sq_km
+    V4=en
+  ];
+  235 -> 456 [
+    V3="http://travel.org/russia#area_unit"
+    V4=
+  ];
+  236 -> 457 [
+    V3="11 pm"
+    V4=en
+  ];
+  236 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  237 -> 457 [
+    V3=Laptop
+    V4=en
+  ];
+  237 -> 456 [
+    V3="http://travel.org/russia#simple_consumer_device"
+    V4=
+  ];
+  238 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  238 -> 457 [
+    V3=festival
+    V4=en
+  ];
+  238 -> 461 [
+    V3="http://travel.org/russia#culture_and_art"
+    V4=
+  ];
+  239 -> 457 [
+    V3=Icecream
+    V4=en
+  ];
+  239 -> 456 [
+    V3="http://travel.org/russia#food"
+    V4=
+  ];
+  240 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  240 -> 457 [
+    V3=political_region
+    V4=en
+  ];
+  240 -> 461 [
+    V3="http://travel.org/russia#region"
+    V4=
+  ];
+  241 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  241 -> 457 [
+    V3=region
+    V4=en
+  ];
+  241 -> 461 [
+    V3="http://travel.org/russia#Dimension"
+    V4=
+  ];
+  242 -> 457 [
+    V3=Krisis_Zhanra
+    V4=en
+  ];
+  242 -> 456 [
+    V3="http://travel.org/russia#folk_music"
+    V4=
+  ];
+  243 -> 457 [
+    V3=Ulyanovsk
+    V4=en
+  ];
+  243 -> 456 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  243 -> 55 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  243 -> 404 [
+    V3="625,000"
+    V4=
+  ];
+  243 -> 277 [
+    V3=715
+    V4=
+  ];
+  243 -> 303 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  243 -> 204 [
+    V3="http://travel.org/russia#east"
+    V4=
+  ];
+  244 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  244 -> 457 [
+    V3=need_certifikate
+    V4=en
+  ];
+  244 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  244 -> 459 [
+    V3="http://travel.org/russia#device_to_be_observed"
+    V4=
+  ];
+  244 -> 460 [
+    V3="http://travel.org/russia#certificate"
+    V4=
+  ];
+  245 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  245 -> 457 [
+    V3=public_building
+    V4=en
+  ];
+  245 -> 461 [
+    V3="http://travel.org/russia#public_space"
+    V4=
+  ];
+  246 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  246 -> 457 [
+    V3=boutique
+    V4=en
+  ];
+  246 -> 461 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  247 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  247 -> 457 [
+    V3=tourist_shop
+    V4=en
+  ];
+  247 -> 461 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  248 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  248 -> 457 [
+    V3=pass_by
+    V4=en
+  ];
+  248 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  248 -> 459 [
+    V3="http://travel.org/russia#travel_event"
+    V4=
+  ];
+  248 -> 460 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  249 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  249 -> 457 [
+    V3=has_open_hour___place
+    V4=en
+  ];
+  249 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  249 -> 459 [
+    V3="http://travel.org/russia#shopping_place"
+    V4=
+  ];
+  249 -> 460 [
+    V3="http://travel.org/russia#open_hour"
+    V4=
+  ];
+  250 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  250 -> 457 [
+    V3=belong_to_country___city
+    V4=en
+  ];
+  250 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  250 -> 459 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  250 -> 460 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  251 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  251 -> 457 [
+    V3=student
+    V4=en
+  ];
+  251 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  252 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  252 -> 457 [
+    V3=has_distance_to_stpetersburg___city
+    V4=en
+  ];
+  252 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  252 -> 459 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  252 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  253 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  253 -> 457 [
+    V3=person
+    V4=en
+  ];
+  253 -> 461 [
+    V3="http://travel.org/russia#human_being"
+    V4=
+  ];
+  254 -> 457 [
+    V3=Designer_Boutique
+    V4=en
+  ];
+  254 -> 456 [
+    V3="http://travel.org/russia#boutique"
+    V4=
+  ];
+  255 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  255 -> 457 [
+    V3=time
+    V4=en
+  ];
+  255 -> 461 [
+    V3="http://travel.org/russia#Dimension"
+    V4=
+  ];
+  256 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  256 -> 457 [
+    V3=water_cure
+    V4=en
+  ];
+  256 -> 461 [
+    V3="http://travel.org/russia#cure"
+    V4=
+  ];
+  257 -> 457 [
+    V3=September
+    V4=en
+  ];
+  257 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  257 -> 151 [
+    V3=true
+    V4=
+  ];
+  258 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  258 -> 457 [
+    V3=time_slot
+    V4=en
+  ];
+  258 -> 461 [
+    V3="http://travel.org/russia#time"
+    V4=
+  ];
+  259 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  259 -> 457 [
+    V3=has_position_to_stpetersburg___town
+    V4=en
+  ];
+  259 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  259 -> 459 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  259 -> 460 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  260 -> 457 [
+    V3=Novgorod
+    V4=en
+  ];
+  260 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  260 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  260 -> 404 [
+    V3="240,000"
+    V4=
+  ];
+  260 -> 252 [
+    V3=160
+    V4=
+  ];
+  260 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  260 -> 53 [
+    V3="http://travel.org/russia#southeast"
+    V4=
+  ];
+  260 -> 314 [
+    V3="http://travel.org/russia#St_Sofia_Cathedral"
+    V4=
+  ];
+  260 -> 314 [
+    V3="http://travel.org/russia#Vitoslavlitsy_Museum"
+    V4=
+  ];
+  261 -> 457 [
+    V3=Potato
+    V4=en
+  ];
+  261 -> 456 [
+    V3="http://travel.org/russia#vegetable"
+    V4=
+  ];
+  262 -> 457 [
+    V3=T_Shirt
+    V4=en
+  ];
+  262 -> 456 [
+    V3="http://travel.org/russia#clothes"
+    V4=
+  ];
+  263 -> 457 [
+    V3=Mariinsky_Ballet
+    V4=en
+  ];
+  263 -> 456 [
+    V3="http://travel.org/russia#ballet_company"
+    V4=
+  ];
+  263 -> 373 [
+    V3="Mariinsky Ballet"
+    V4=
+  ];
+  263 -> 450 [
+    V3="http://travel.org/russia#Kremlin_Palace_Theatre"
+    V4=
+  ];
+  263 -> 450 [
+    V3="http://travel.org/russia#Mariinsky_Theatre"
+    V4=
+  ];
+  264 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  264 -> 457 [
+    V3=bank
+    V4=en
+  ];
+  264 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  265 -> 457 [
+    V3=July
+    V4=en
+  ];
+  265 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  265 -> 151 [
+    V3=true
+    V4=
+  ];
+  266 -> 457 [
+    V3=day
+    V4=en
+  ];
+  266 -> 456 [
+    V3="http://travel.org/russia#time_unit"
+    V4=
+  ];
+  267 -> 457 [
+    V3="3 am"
+    V4=en
+  ];
+  267 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  268 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  268 -> 457 [
+    V3=country
+    V4=en
+  ];
+  268 -> 461 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  269 -> 457 [
+    V3=Ivan_Goncharev
+    V4=en
+  ];
+  269 -> 456 [
+    V3="http://travel.org/russia#author"
+    V4=
+  ];
+  270 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  270 -> 457 [
+    V3=check
+    V4=en
+  ];
+  270 -> 461 [
+    V3="http://travel.org/russia#means_of_payment"
+    V4=
+  ];
+  271 -> 457 [
+    V3="6 pm"
+    V4=en
+  ];
+  271 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  272 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  272 -> 457 [
+    V3=composer
+    V4=en
+  ];
+  272 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  273 -> 457 [
+    V3=Nevsky_Prospekt
+    V4=en
+  ];
+  273 -> 456 [
+    V3="http://travel.org/russia#street"
+    V4=
+  ];
+  273 -> 82 [
+    V3="Nevsky Prospekt"
+    V4=
+  ];
+  273 -> 310 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  274 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  274 -> 457 [
+    V3=direction
+    V4=en
+  ];
+  274 -> 461 [
+    V3="http://travel.org/russia#Dimension"
+    V4=
+  ];
+  275 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  275 -> 457 [
+    V3=revolutionary
+    V4=en
+  ];
+  275 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  276 -> 457 [
+    V3=Antique
+    V4=en
+  ];
+  276 -> 456 [
+    V3="http://travel.org/russia#others"
+    V4=
+  ];
+  277 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  277 -> 457 [
+    V3=has_distance_to_moscow
+    V4=en
+  ];
+  277 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  277 -> 459 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  277 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  278 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  278 -> 457 [
+    V3="3days_visa"
+    V4=en
+  ];
+  278 -> 461 [
+    V3="http://travel.org/russia#visa"
+    V4=
+  ];
+  279 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  279 -> 457 [
+    V3=has_written
+    V4=en
+  ];
+  279 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  279 -> 459 [
+    V3="http://travel.org/russia#author"
+    V4=
+  ];
+  279 -> 460 [
+    V3="http://travel.org/russia#novel"
+    V4=
+  ];
+  280 -> 457 [
+    V3="12 am"
+    V4=en
+  ];
+  280 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  281 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  281 -> 457 [
+    V3=plant
+    V4=en
+  ];
+  281 -> 461 [
+    V3="http://travel.org/russia#living_being"
+    V4=
+  ];
+  282 -> 457 [
+    V3=Kuril_Islands
+    V4=en
+  ];
+  282 -> 456 [
+    V3="http://travel.org/russia#archipelago"
+    V4=
+  ];
+  283 -> 457 [
+    V3=Japan
+    V4=en
+  ];
+  283 -> 456 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  284 -> 457 [
+    V3=Christ_the_Savior_Cathedral
+    V4=en
+  ];
+  284 -> 456 [
+    V3="http://travel.org/russia#cathedral"
+    V4=
+  ];
+  284 -> 82 [
+    V3="Christ the Savior Cathedral"
+    V4=
+  ];
+  284 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  285 -> 457 [
+    V3=Thursday
+    V4=en
+  ];
+  285 -> 456 [
+    V3="http://travel.org/russia#weekday"
+    V4=
+  ];
+  286 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  286 -> 457 [
+    V3=overview
+    V4=en
+  ];
+  286 -> 461 [
+    V3="http://travel.org/russia#tourist_information"
+    V4=
+  ];
+  287 -> 457 [
+    V3=St_Nicholas_Church
+    V4=en
+  ];
+  287 -> 456 [
+    V3="http://travel.org/russia#church"
+    V4=
+  ];
+  287 -> 82 [
+    V3="St. Nicholas' Church"
+    V4=
+  ];
+  287 -> 310 [
+    V3="http://travel.org/russia#Murmansk"
+    V4=
+  ];
+  288 -> 457 [
+    V3=Lenin
+    V4=en
+  ];
+  288 -> 456 [
+    V3="http://travel.org/russia#revolutionary"
+    V4=
+  ];
+  288 -> 456 [
+    V3="http://travel.org/russia#student"
+    V4=
+  ];
+  288 -> 184 [
+    V3="http://travel.org/russia#University_of_Kazan"
+    V4=
+  ];
+  288 -> 124 [
+    V3="http://travel.org/russia#Ulyanovsk"
+    V4=
+  ];
+  288 -> 373 [
+    V3=Lenin
+    V4=
+  ];
+  288 -> 177 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  289 -> 457 [
+    V3=Bread
+    V4=en
+  ];
+  289 -> 456 [
+    V3="http://travel.org/russia#food"
+    V4=
+  ];
+  290 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  290 -> 457 [
+    V3=city
+    V4=en
+  ];
+  290 -> 461 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  291 -> 457 [
+    V3=Winter
+    V4=en
+  ];
+  291 -> 456 [
+    V3="http://travel.org/russia#season"
+    V4=
+  ];
+  292 -> 457 [
+    V3=hour
+    V4=en
+  ];
+  292 -> 456 [
+    V3="http://travel.org/russia#time_unit"
+    V4=
+  ];
+  293 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  293 -> 457 [
+    V3=clothes
+    V4=en
+  ];
+  293 -> 461 [
+    V3="http://travel.org/russia#consumer_goods"
+    V4=
+  ];
+  294 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  294 -> 457 [
+    V3=has_source
+    V4=en
+  ];
+  294 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  294 -> 459 [
+    V3="http://travel.org/russia#river"
+    V4=
+  ];
+  294 -> 460 [
+    V3="http://travel.org/russia#region"
+    V4=
+  ];
+  295 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  295 -> 457 [
+    V3=has_open_hour___building
+    V4=en
+  ];
+  295 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  295 -> 459 [
+    V3="http://travel.org/russia#bank"
+    V4=
+  ];
+  295 -> 460 [
+    V3="http://travel.org/russia#open_hour"
+    V4=
+  ];
+  296 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  296 -> 457 [
+    V3=has_capital
+    V4=en
+  ];
+  296 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  296 -> 459 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  296 -> 460 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  297 -> 457 [
+    V3=Mamayev_Hill
+    V4=en
+  ];
+  297 -> 456 [
+    V3="http://travel.org/russia#mountain"
+    V4=
+  ];
+  297 -> 82 [
+    V3=Mamayev
+    V4=
+  ];
+  297 -> 432 [
+    V3="http://travel.org/russia#Volgograd"
+    V4=
+  ];
+  298 -> 457 [
+    V3=Peter_and_Paul_Fortress
+    V4=en
+  ];
+  298 -> 456 [
+    V3="http://travel.org/russia#fortress"
+    V4=
+  ];
+  298 -> 82 [
+    V3="Peter and Paul Fortress"
+    V4=
+  ];
+  298 -> 310 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  299 -> 457 [
+    V3=Banking_Hours_normal
+    V4=en
+  ];
+  299 -> 456 [
+    V3="http://travel.org/russia#open_hour"
+    V4=
+  ];
+  299 -> 321 [
+    V3="http://travel.org/russia#_9_am"
+    V4=
+  ];
+  299 -> 321 [
+    V3="http://travel.org/russia#_2_pm"
+    V4=
+  ];
+  299 -> 18 [
+    V3="http://travel.org/russia#_1_pm"
+    V4=
+  ];
+  299 -> 18 [
+    V3="http://travel.org/russia#_6_pm"
+    V4=
+  ];
+  299 -> 18 [
+    V3="http://travel.org/russia#_7_pm"
+    V4=
+  ];
+  299 -> 181 [
+    V3="http://travel.org/russia#o_clock"
+    V4=
+  ];
+  299 -> 99 [
+    V3="http://travel.org/russia#Friday"
+    V4=
+  ];
+  299 -> 99 [
+    V3="http://travel.org/russia#Monday"
+    V4=
+  ];
+  299 -> 99 [
+    V3="http://travel.org/russia#Thursday"
+    V4=
+  ];
+  299 -> 99 [
+    V3="http://travel.org/russia#Tuesday"
+    V4=
+  ];
+  299 -> 99 [
+    V3="http://travel.org/russia#Wednsday"
+    V4=
+  ];
+  300 -> 457 [
+    V3=Summer
+    V4=en
+  ];
+  300 -> 456 [
+    V3="http://travel.org/russia#season"
+    V4=
+  ];
+  301 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  301 -> 457 [
+    V3=has_distance_to_moscow___city
+    V4=en
+  ];
+  301 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  301 -> 459 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  301 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  302 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  302 -> 457 [
+    V3=rest_cure
+    V4=en
+  ];
+  302 -> 461 [
+    V3="http://travel.org/russia#cure"
+    V4=
+  ];
+  303 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  303 -> 457 [
+    V3=has_distance_unit___town
+    V4=en
+  ];
+  303 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  303 -> 459 [
+    V3="http://travel.org/russia#town"
+    V4=
+  ];
+  303 -> 460 [
+    V3="http://travel.org/russia#length_unit"
+    V4=
+  ];
+  304 -> 457 [
+    V3="1 pm"
+    V4=en
+  ];
+  304 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  305 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  305 -> 457 [
+    V3=titanic
+    V4=en
+  ];
+  305 -> 461 [
+    V3="http://travel.org/russia#live_music"
+    V4=
+  ];
+  306 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  306 -> 457 [
+    V3=visa
+    V4=en
+  ];
+  306 -> 461 [
+    V3="http://travel.org/russia#document"
+    V4=
+  ];
+  307 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  307 -> 457 [
+    V3=has_unit___time
+    V4=en
+  ];
+  307 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  307 -> 459 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  307 -> 460 [
+    V3="http://travel.org/russia#time_unit"
+    V4=
+  ];
+  308 -> 457 [
+    V3=March
+    V4=en
+  ];
+  308 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  308 -> 151 [
+    V3=false
+    V4=
+  ];
+  309 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  309 -> 457 [
+    V3=vegetable
+    V4=en
+  ];
+  309 -> 461 [
+    V3="http://travel.org/russia#food"
+    V4=
+  ];
+  310 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  310 -> 457 [
+    V3=lie_in
+    V4=en
+  ];
+  310 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  310 -> 459 [
+    V3="http://travel.org/russia#public_space"
+    V4=
+  ];
+  310 -> 460 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  311 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  311 -> 457 [
+    V3=normal_traveler
+    V4=en
+  ];
+  311 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  312 -> 457 [
+    V3=sq_mi
+    V4=en
+  ];
+  312 -> 456 [
+    V3="http://travel.org/russia#area_unit"
+    V4=
+  ];
+  313 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  313 -> 457 [
+    V3=drink
+    V4=en
+  ];
+  313 -> 461 [
+    V3="http://travel.org/russia#food"
+    V4=
+  ];
+  314 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  314 -> 457 [
+    V3=has_sight___city
+    V4=en
+  ];
+  314 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  314 -> 459 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  314 -> 460 [
+    V3="http://travel.org/russia#public_space"
+    V4=
+  ];
+  315 -> 457 [
+    V3=Area_of_Russia
+    V4=en
+  ];
+  315 -> 456 [
+    V3="http://travel.org/russia#surface_area"
+    V4=
+  ];
+  315 -> 114 [
+    V3="17,055,150"
+    V4=
+  ];
+  316 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  316 -> 457 [
+    V3=religion
+    V4=en
+  ];
+  316 -> 461 [
+    V3="http://travel.org/russia#overview"
+    V4=
+  ];
+  317 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  317 -> 457 [
+    V3=cooperative_restaurant
+    V4=en
+  ];
+  317 -> 461 [
+    V3="http://travel.org/russia#restaurant"
+    V4=
+  ];
+  318 -> 457 [
+    V3=Turgenev
+    V4=en
+  ];
+  318 -> 456 [
+    V3="http://travel.org/russia#author"
+    V4=
+  ];
+  318 -> 124 [
+    V3="http://travel.org/russia#Orel"
+    V4=
+  ];
+  318 -> 279 [
+    V3="http://travel.org/russia#A_Month_in_the_Country"
+    V4=
+  ];
+  318 -> 373 [
+    V3=Turgenev
+    V4=
+  ];
+  319 -> 457 [
+    V3="7 am"
+    V4=en
+  ];
+  319 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  320 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  320 -> 457 [
+    V3=ballet_company
+    V4=en
+  ];
+  320 -> 461 [
+    V3="http://travel.org/russia#artwork_organisation"
+    V4=
+  ];
+  321 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  321 -> 457 [
+    V3=has_beginn
+    V4=en
+  ];
+  321 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  321 -> 459 [
+    V3="http://travel.org/russia#time_slot"
+    V4=
+  ];
+  321 -> 460 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  322 -> 457 [
+    V3=Museam_of_Wooden_Architecture
+    V4=en
+  ];
+  322 -> 456 [
+    V3="http://travel.org/russia#museum"
+    V4=
+  ];
+  322 -> 82 [
+    V3="Museum of Wooden Architecture"
+    V4=
+  ];
+  322 -> 310 [
+    V3="http://travel.org/russia#Irkutsk"
+    V4=
+  ];
+  322 -> 419 [
+    V3="http://travel.org/russia#wooden_Architecture"
+    V4=
+  ];
+  323 -> 457 [
+    V3=Onion_Dom
+    V4=en
+  ];
+  323 -> 456 [
+    V3="http://travel.org/russia#architecture"
+    V4=
+  ];
+  324 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  324 -> 457 [
+    V3=cure
+    V4=en
+  ];
+  324 -> 461 [
+    V3="http://travel.org/russia#about_health"
+    V4=
+  ];
+  325 -> 457 [
+    V3=Tchaikovsky_Concert_Hall
+    V4=en
+  ];
+  325 -> 456 [
+    V3="http://travel.org/russia#concert_hall"
+    V4=
+  ];
+  325 -> 82 [
+    V3="Tchaikovsky Concert Hall"
+    V4=
+  ];
+  325 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  326 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  326 -> 457 [
+    V3=visual_decorative_art
+    V4=en
+  ];
+  326 -> 461 [
+    V3="http://travel.org/russia#culture_and_art"
+    V4=
+  ];
+  327 -> 457 [
+    V3="10 pm"
+    V4=en
+  ];
+  327 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  328 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  328 -> 457 [
+    V3=disease_type
+    V4=en
+  ];
+  328 -> 461 [
+    V3="http://travel.org/russia#about_health"
+    V4=
+  ];
+  329 -> 457 [
+    V3=wooden_Architecture
+    V4=en
+  ];
+  329 -> 456 [
+    V3="http://travel.org/russia#architecture"
+    V4=
+  ];
+  330 -> 457 [
+    V3=hiking
+    V4=en
+  ];
+  330 -> 456 [
+    V3="http://travel.org/russia#sport"
+    V4=
+  ];
+  331 -> 457 [
+    V3=Hat
+    V4=en
+  ];
+  331 -> 456 [
+    V3="http://travel.org/russia#clothes"
+    V4=
+  ];
+  332 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  332 -> 457 [
+    V3=disco
+    V4=en
+  ];
+  332 -> 461 [
+    V3="http://travel.org/russia#place_for_nightlife"
+    V4=
+  ];
+  333 -> 457 [
+    V3=Irkutsk
+    V4=en
+  ];
+  333 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  333 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  333 -> 82 [
+    V3=Irkutsk
+    V4=
+  ];
+  333 -> 404 [
+    V3="630,000"
+    V4=
+  ];
+  333 -> 314 [
+    V3="http://travel.org/russia#Museam_of_Wooden_Architecture"
+    V4=
+  ];
+  333 -> 392 [
+    V3="http://travel.org/russia#east"
+    V4=
+  ];
+  333 -> 301 [
+    V3="4,215"
+    V4=
+  ];
+  333 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  334 -> 457 [
+    V3=minute
+    V4=en
+  ];
+  334 -> 456 [
+    V3="http://travel.org/russia#time_unit"
+    V4=
+  ];
+  335 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  335 -> 457 [
+    V3=inspector
+    V4=en
+  ];
+  335 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  336 -> 457 [
+    V3=Kazan
+    V4=en
+  ];
+  336 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  336 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  336 -> 301 [
+    V3=725
+    V4=
+  ];
+  336 -> 158 [
+    V3="http://travel.org/russia#kilo_meter"
+    V4=
+  ];
+  336 -> 82 [
+    V3=kazan
+    V4=
+  ];
+  336 -> 404 [
+    V3="1,094,000"
+    V4=
+  ];
+  336 -> 392 [
+    V3="http://travel.org/russia#east"
+    V4=
+  ];
+  336 -> 314 [
+    V3="http://travel.org/russia#Kazan_Kremlin"
+    V4=
+  ];
+  336 -> 314 [
+    V3="http://travel.org/russia#University_of_Kazan"
+    V4=
+  ];
+  337 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  337 -> 457 [
+    V3=author
+    V4=en
+  ];
+  337 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  338 -> 457 [
+    V3=hunting
+    V4=en
+  ];
+  338 -> 456 [
+    V3="http://travel.org/russia#sport"
+    V4=
+  ];
+  339 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  339 -> 457 [
+    V3=unit
+    V4=en
+  ];
+  339 -> 461 [
+    V3="http://travel.org/russia#Dimension"
+    V4=
+  ];
+  340 -> 457 [
+    V3=Scarves
+    V4=en
+  ];
+  340 -> 456 [
+    V3="http://travel.org/russia#clothes"
+    V4=
+  ];
+  341 -> 457 [
+    V3=History_of_Arms_Museum
+    V4=en
+  ];
+  341 -> 456 [
+    V3="http://travel.org/russia#museum"
+    V4=
+  ];
+  341 -> 87 [
+    V3="http://travel.org/russia#Peter_the_Great"
+    V4=
+  ];
+  341 -> 82 [
+    V3="the History of Arms Museum"
+    V4=
+  ];
+  341 -> 310 [
+    V3="http://travel.org/russia#Tula"
+    V4=
+  ];
+  342 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  342 -> 457 [
+    V3=animal
+    V4=en
+  ];
+  342 -> 461 [
+    V3="http://travel.org/russia#living_being"
+    V4=
+  ];
+  343 -> 457 [
+    V3=Izmailovski_Stadium
+    V4=en
+  ];
+  343 -> 456 [
+    V3="http://travel.org/russia#market"
+    V4=
+  ];
+  343 -> 82 [
+    V3=Izmailovski
+    V4=
+  ];
+  343 -> 140 [
+    V3="http://travel.org/russia#Antique"
+    V4=
+  ];
+  343 -> 140 [
+    V3="http://travel.org/russia#Souvenir"
+    V4=
+  ];
+  343 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  344 -> 457 [
+    V3=Moscow
+    V4=en
+  ];
+  344 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  344 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  344 -> 301 [
+    V3=0
+    V4=
+  ];
+  344 -> 82 [
+    V3=Moscow
+    V4=
+  ];
+  344 -> 442 [
+    V3=095
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#_24_Hour_Convenience_Store"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Designer_Boutique"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Christ_the_Savior_Cathedral"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Kremlin"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Manezh_Square"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Red_Square"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#St_Basil_s_Cathedral"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Monument_to_Peter_the_Great"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Tretyakov_Gallery"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Gorky_Park"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Arbat"
+    V4=
+  ];
+  344 -> 314 [
+    V3="http://travel.org/russia#Izmailovski_Stadium"
+    V4=
+  ];
+  345 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  345 -> 457 [
+    V3="3months_visa"
+    V4=en
+  ];
+  345 -> 461 [
+    V3="http://travel.org/russia#visa"
+    V4=
+  ];
+  346 -> 457 [
+    V3=Hermitage_Museum
+    V4=en
+  ];
+  346 -> 456 [
+    V3="http://travel.org/russia#museum"
+    V4=
+  ];
+  346 -> 82 [
+    V3="Hermitage Museum"
+    V4=
+  ];
+  346 -> 310 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  347 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  347 -> 457 [
+    V3=ballet
+    V4=en
+  ];
+  347 -> 461 [
+    V3="http://travel.org/russia#dance"
+    V4=
+  ];
+  348 -> 457 [
+    V3=Canada
+    V4=en
+  ];
+  348 -> 456 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  349 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  349 -> 457 [
+    V3=sea
+    V4=en
+  ];
+  349 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  350 -> 457 [
+    V3=Russian_Ruble
+    V4=en
+  ];
+  350 -> 456 [
+    V3="http://travel.org/russia#currency"
+    V4=
+  ];
+  351 -> 457 [
+    V3=June
+    V4=en
+  ];
+  351 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  351 -> 151 [
+    V3=true
+    V4=
+  ];
+  352 -> 457 [
+    V3=Summer_Garden
+    V4=en
+  ];
+  352 -> 456 [
+    V3="http://travel.org/russia#garden"
+    V4=
+  ];
+  352 -> 82 [
+    V3="Summer Garden"
+    V4=
+  ];
+  352 -> 310 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  353 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  353 -> 457 [
+    V3=valley
+    V4=en
+  ];
+  353 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  354 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  354 -> 457 [
+    V3=surface_area
+    V4=en
+  ];
+  354 -> 461 [
+    V3="http://travel.org/russia#overview"
+    V4=
+  ];
+  355 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  355 -> 457 [
+    V3=has_name___recreation
+    V4=en
+  ];
+  355 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  355 -> 459 [
+    V3="http://travel.org/russia#recreation_sports"
+    V4=
+  ];
+  355 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#STRING"
+    V4=
+  ];
+  356 -> 457 [
+    V3=swimming
+    V4=en
+  ];
+  356 -> 456 [
+    V3="http://travel.org/russia#sport"
+    V4=
+  ];
+  357 -> 457 [
+    V3=Cellular_Phone
+    V4=en
+  ];
+  357 -> 456 [
+    V3="http://travel.org/russia#device_to_be_observed"
+    V4=
+  ];
+  358 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  358 -> 457 [
+    V3=novel
+    V4=en
+  ];
+  358 -> 461 [
+    V3="http://travel.org/russia#literature"
+    V4=
+  ];
+  359 -> 457 [
+    V3="2 am"
+    V4=en
+  ];
+  359 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  360 -> 457 [
+    V3=November
+    V4=en
+  ];
+  360 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  360 -> 151 [
+    V3=false
+    V4=
+  ];
+  361 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  361 -> 457 [
+    V3=literature
+    V4=en
+  ];
+  361 -> 461 [
+    V3="http://travel.org/russia#culture_and_art"
+    V4=
+  ];
+  362 -> 457 [
+    V3=Old_Circus
+    V4=en
+  ];
+  362 -> 456 [
+    V3="http://travel.org/russia#circuse"
+    V4=
+  ];
+  363 -> 457 [
+    V3=inch
+    V4=en
+  ];
+  363 -> 456 [
+    V3="http://travel.org/russia#length_unit"
+    V4=
+  ];
+  364 -> 457 [
+    V3=Tuesday
+    V4=en
+  ];
+  364 -> 456 [
+    V3="http://travel.org/russia#weekday"
+    V4=
+  ];
+  365 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  365 -> 457 [
+    V3=end_point
+    V4=en
+  ];
+  365 -> 461 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  366 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  366 -> 457 [
+    V3=monument
+    V4=en
+  ];
+  366 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  367 -> 457 [
+    V3="5 pm"
+    V4=en
+  ];
+  367 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  368 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  368 -> 457 [
+    V3=archipelago
+    V4=en
+  ];
+  368 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  369 -> 457 [
+    V3=Arbat
+    V4=en
+  ];
+  369 -> 456 [
+    V3="http://travel.org/russia#local_store"
+    V4=
+  ];
+  369 -> 82 [
+    V3=Arbat
+    V4=
+  ];
+  369 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  369 -> 140 [
+    V3="http://travel.org/russia#T_Shirt"
+    V4=
+  ];
+  369 -> 140 [
+    V3="http://travel.org/russia#Soviet_Army_Memorabilia"
+    V4=
+  ];
+  369 -> 140 [
+    V3="http://travel.org/russia#Scarves"
+    V4=
+  ];
+  370 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  370 -> 457 [
+    V3=restaurant
+    V4=en
+  ];
+  370 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  371 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  371 -> 457 [
+    V3=garden
+    V4=en
+  ];
+  371 -> 461 [
+    V3="http://travel.org/russia#public_place"
+    V4=
+  ];
+  372 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  372 -> 457 [
+    V3=has_student
+    V4=en
+  ];
+  372 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  372 -> 459 [
+    V3="http://travel.org/russia#university"
+    V4=
+  ];
+  372 -> 460 [
+    V3="http://travel.org/russia#student"
+    V4=
+  ];
+  373 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  373 -> 457 [
+    V3=has_name___material
+    V4=en
+  ];
+  373 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  373 -> 459 [
+    V3="http://travel.org/russia#Material"
+    V4=
+  ];
+  373 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#STRING"
+    V4=
+  ];
+  374 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  374 -> 457 [
+    V3=concert_hall
+    V4=en
+  ];
+  374 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  375 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  375 -> 457 [
+    V3=has_name___disease
+    V4=en
+  ];
+  375 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  375 -> 459 [
+    V3="http://travel.org/russia#about_health"
+    V4=
+  ];
+  375 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#STRING"
+    V4=
+  ];
+  376 -> 457 [
+    V3=Spring
+    V4=en
+  ];
+  376 -> 456 [
+    V3="http://travel.org/russia#season"
+    V4=
+  ];
+  377 -> 457 [
+    V3=ski
+    V4=en
+  ];
+  377 -> 456 [
+    V3="http://travel.org/russia#sport"
+    V4=
+  ];
+  378 -> 457 [
+    V3=wooden_Church
+    V4=en
+  ];
+  378 -> 456 [
+    V3="http://travel.org/russia#church"
+    V4=
+  ];
+  378 -> 310 [
+    V3="http://travel.org/russia#Kizhi"
+    V4=
+  ];
+  378 -> 82 [
+    V3="The Church of the Transfiguration"
+    V4=
+  ];
+  378 -> 419 [
+    V3="http://travel.org/russia#wooden_Architecture"
+    V4=
+  ];
+  379 -> 457 [
+    V3="11 am"
+    V4=en
+  ];
+  379 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  380 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  380 -> 457 [
+    V3=has_departure
+    V4=en
+  ];
+  380 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  380 -> 459 [
+    V3="http://travel.org/russia#travel_event"
+    V4=
+  ];
+  380 -> 460 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  381 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  381 -> 457 [
+    V3=robber
+    V4=en
+  ];
+  381 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  382 -> 457 [
+    V3=Dombai
+    V4=en
+  ];
+  382 -> 456 [
+    V3="http://travel.org/russia#valley"
+    V4=
+  ];
+  383 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  383 -> 457 [
+    V3=river
+    V4=en
+  ];
+  383 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  384 -> 457 [
+    V3=War_and_Pearce
+    V4=en
+  ];
+  384 -> 456 [
+    V3="http://travel.org/russia#novel"
+    V4=
+  ];
+  385 -> 457 [
+    V3=Volga_Cruise
+    V4=en
+  ];
+  385 -> 456 [
+    V3="http://travel.org/russia#cruise"
+    V4=
+  ];
+  385 -> 145 [
+    V3="http://travel.org/russia#Volga"
+    V4=
+  ];
+  385 -> 110 [
+    V3="http://travel.org/russia#day"
+    V4=
+  ];
+  385 -> 24 [
+    V3=7
+    V4=
+  ];
+  385 -> 355 [
+    V3="Cruise of Volga"
+    V4=
+  ];
+  386 -> 457 [
+    V3=Gun_Monument
+    V4=en
+  ];
+  386 -> 456 [
+    V3="http://travel.org/russia#monument"
+    V4=
+  ];
+  386 -> 82 [
+    V3="Gun Monument"
+    V4=
+  ];
+  386 -> 310 [
+    V3="http://travel.org/russia#Murmansk"
+    V4=
+  ];
+  387 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  387 -> 457 [
+    V3=device_to_be_observed
+    V4=en
+  ];
+  387 -> 461 [
+    V3="http://travel.org/russia#electronic_device"
+    V4=
+  ];
+  388 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  388 -> 457 [
+    V3=dancer
+    V4=en
+  ];
+  388 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  389 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  389 -> 457 [
+    V3=fortress
+    V4=en
+  ];
+  389 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  390 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  390 -> 457 [
+    V3=cafe
+    V4=en
+  ];
+  390 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  391 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  391 -> 457 [
+    V3=has_name___literature
+    V4=en
+  ];
+  391 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  391 -> 459 [
+    V3="http://travel.org/russia#literature"
+    V4=
+  ];
+  391 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#STRING"
+    V4=
+  ];
+  392 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  392 -> 457 [
+    V3=has_position_to_moscow___city
+    V4=en
+  ];
+  392 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  392 -> 459 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  392 -> 460 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  393 -> 457 [
+    V3=southwest
+    V4=en
+  ];
+  393 -> 456 [
+    V3="http://travel.org/russia#direction"
+    V4=
+  ];
+  394 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  394 -> 457 [
+    V3=has_currency
+    V4=en
+  ];
+  394 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  394 -> 459 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  394 -> 460 [
+    V3="http://travel.org/russia#currency"
+    V4=
+  ];
+  395 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  395 -> 457 [
+    V3=electronic_device
+    V4=en
+  ];
+  395 -> 461 [
+    V3="http://travel.org/russia#consumer_goods"
+    V4=
+  ];
+  396 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  396 -> 457 [
+    V3=island
+    V4=en
+  ];
+  396 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  397 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  397 -> 457 [
+    V3=area_unit
+    V4=en
+  ];
+  397 -> 461 [
+    V3="http://travel.org/russia#unit"
+    V4=
+  ];
+  398 -> 457 [
+    V3=horseback_riding
+    V4=en
+  ];
+  398 -> 456 [
+    V3="http://travel.org/russia#sport"
+    V4=
+  ];
+  399 -> 457 [
+    V3=Soviet_Army_Memorabilia
+    V4=en
+  ];
+  399 -> 456 [
+    V3="http://travel.org/russia#others"
+    V4=
+  ];
+  400 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  400 -> 457 [
+    V3=mountain
+    V4=en
+  ];
+  400 -> 461 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  401 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  401 -> 457 [
+    V3=has_country
+    V4=en
+  ];
+  401 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  401 -> 459 [
+    V3="http://travel.org/russia#time_zone"
+    V4=
+  ];
+  401 -> 460 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  402 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  402 -> 457 [
+    V3=culture_and_art
+    V4=en
+  ];
+  402 -> 461 [
+    V3="http://travel.org/russia#Spiritual_Product"
+    V4=
+  ];
+  403 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  403 -> 457 [
+    V3=has_destination
+    V4=en
+  ];
+  403 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  403 -> 459 [
+    V3="http://travel.org/russia#travel_event"
+    V4=
+  ];
+  403 -> 460 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  404 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  404 -> 457 [
+    V3=has_population_value
+    V4=en
+  ];
+  404 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  404 -> 459 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  404 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  405 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  405 -> 457 [
+    V3=handwork
+    V4=en
+  ];
+  405 -> 461 [
+    V3="http://travel.org/russia#consumer_goods"
+    V4=
+  ];
+  406 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  406 -> 457 [
+    V3=time_zone
+    V4=en
+  ];
+  406 -> 461 [
+    V3="http://travel.org/russia#time"
+    V4=
+  ];
+  406 -> 461 [
+    V3="http://travel.org/russia#overview"
+    V4=
+  ];
+  407 -> 457 [
+    V3="St.Petersburg"
+    V4=en
+  ];
+  407 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  407 -> 442 [
+    V3=812
+    V4=
+  ];
+  407 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  407 -> 314 [
+    V3="http://travel.org/russia#Hermitage_Museum"
+    V4=
+  ];
+  407 -> 314 [
+    V3="http://travel.org/russia#Nevsky_Prospekt"
+    V4=
+  ];
+  407 -> 314 [
+    V3="http://travel.org/russia#Panorama_Restaurant"
+    V4=
+  ];
+  407 -> 314 [
+    V3="http://travel.org/russia#St_Isaac_s_Cathedral"
+    V4=
+  ];
+  407 -> 314 [
+    V3="http://travel.org/russia#Summer_Garden"
+    V4=
+  ];
+  407 -> 314 [
+    V3="http://travel.org/russia#Winter_Palace"
+    V4=
+  ];
+  407 -> 314 [
+    V3="http://travel.org/russia#St_Peter_and_Paul_Cathedral"
+    V4=
+  ];
+  407 -> 314 [
+    V3="http://travel.org/russia#Peter_and_Paul_Fortress"
+    V4=
+  ];
+  407 -> 314 [
+    V3="http://travel.org/russia#Mariinsky_Theatre"
+    V4=
+  ];
+  408 -> 457 [
+    V3=Shopping_Hours
+    V4=en
+  ];
+  408 -> 456 [
+    V3="http://travel.org/russia#open_hour"
+    V4=
+  ];
+  408 -> 321 [
+    V3="http://travel.org/russia#_9_am"
+    V4=
+  ];
+  408 -> 18 [
+    V3="http://travel.org/russia#_7_pm"
+    V4=
+  ];
+  408 -> 181 [
+    V3="http://travel.org/russia#o_clock"
+    V4=
+  ];
+  408 -> 99 [
+    V3="http://travel.org/russia#Friday"
+    V4=
+  ];
+  408 -> 99 [
+    V3="http://travel.org/russia#Monday"
+    V4=
+  ];
+  408 -> 99 [
+    V3="http://travel.org/russia#Saturday"
+    V4=
+  ];
+  408 -> 99 [
+    V3="http://travel.org/russia#Thursday"
+    V4=
+  ];
+  408 -> 99 [
+    V3="http://travel.org/russia#Tuesday"
+    V4=
+  ];
+  408 -> 99 [
+    V3="http://travel.org/russia#Wednsday"
+    V4=
+  ];
+  409 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  409 -> 457 [
+    V3=has_distance_to_stpetersburg___palace
+    V4=en
+  ];
+  409 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  409 -> 459 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  409 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  410 -> 457 [
+    V3=Wall_Plaque
+    V4=en
+  ];
+  410 -> 456 [
+    V3="http://travel.org/russia#others"
+    V4=
+  ];
+  411 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  411 -> 457 [
+    V3=fee_scale
+    V4=en
+  ];
+  411 -> 461 [
+    V3="http://travel.org/russia#consumption_information"
+    V4=
+  ];
+  412 -> 457 [
+    V3=Tretyakov_Gallery
+    V4=en
+  ];
+  412 -> 456 [
+    V3="http://travel.org/russia#museum"
+    V4=
+  ];
+  412 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  412 -> 82 [
+    V3="Tretyakov Gallery"
+    V4=
+  ];
+  412 -> 218 [
+    V3="http://travel.org/russia#Monday"
+    V4=
+  ];
+  413 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  413 -> 457 [
+    V3=park
+    V4=en
+  ];
+  413 -> 461 [
+    V3="http://travel.org/russia#public_place"
+    V4=
+  ];
+  414 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  414 -> 457 [
+    V3=czar
+    V4=en
+  ];
+  414 -> 461 [
+    V3="http://travel.org/russia#person"
+    V4=
+  ];
+  415 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  415 -> 457 [
+    V3=instrument
+    V4=en
+  ];
+  415 -> 461 [
+    V3="http://travel.org/russia#consumer_goods"
+    V4=
+  ];
+  416 -> 457 [
+    V3=January
+    V4=en
+  ];
+  416 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  416 -> 151 [
+    V3=false
+    V4=
+  ];
+  417 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  417 -> 457 [
+    V3=has_example
+    V4=en
+  ];
+  417 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  417 -> 459 [
+    V3="http://travel.org/russia#architecture"
+    V4=
+  ];
+  417 -> 460 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  418 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  418 -> 457 [
+    V3=has_language
+    V4=en
+  ];
+  418 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  418 -> 459 [
+    V3="http://travel.org/russia#country"
+    V4=
+  ];
+  418 -> 460 [
+    V3="http://travel.org/russia#language"
+    V4=
+  ];
+  419 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  419 -> 457 [
+    V3=is_known_for___public_space
+    V4=en
+  ];
+  419 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  419 -> 459 [
+    V3="http://travel.org/russia#public_space"
+    V4=
+  ];
+  419 -> 460 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_CONCEPT"
+    V4=
+  ];
+  420 -> 457 [
+    V3="6 am"
+    V4=en
+  ];
+  420 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  421 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  421 -> 457 [
+    V3=hotel
+    V4=en
+  ];
+  421 -> 461 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  421 -> 461 [
+    V3="http://travel.org/russia#sponsor"
+    V4=
+  ];
+  422 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  422 -> 457 [
+    V3=lived_in
+    V4=en
+  ];
+  422 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  422 -> 459 [
+    V3="http://travel.org/russia#czar"
+    V4=
+  ];
+  422 -> 460 [
+    V3="http://travel.org/russia#palace"
+    V4=
+  ];
+  423 -> 457 [
+    V3=Murmansk
+    V4=en
+  ];
+  423 -> 456 [
+    V3="http://travel.org/russia#city"
+    V4=
+  ];
+  423 -> 250 [
+    V3="http://travel.org/russia#Russia"
+    V4=
+  ];
+  423 -> 53 [
+    V3="http://travel.org/russia#north"
+    V4=
+  ];
+  423 -> 252 [
+    V3="1,015"
+    V4=
+  ];
+  423 -> 82 [
+    V3=Murmansk
+    V4=
+  ];
+  423 -> 404 [
+    V3="450,000"
+    V4=
+  ];
+  423 -> 314 [
+    V3="http://travel.org/russia#Gun_Monument"
+    V4=
+  ];
+  423 -> 314 [
+    V3="http://travel.org/russia#Panorama_Restaurant"
+    V4=
+  ];
+  423 -> 314 [
+    V3="http://travel.org/russia#St_Nicholas_Church"
+    V4=
+  ];
+  424 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  424 -> 457 [
+    V3=weekday
+    V4=en
+  ];
+  424 -> 461 [
+    V3="http://travel.org/russia#time_slot"
+    V4=
+  ];
+  425 -> 457 [
+    V3=Russian_Winter_Folk_Festival
+    V4=en
+  ];
+  425 -> 456 [
+    V3="http://travel.org/russia#festival"
+    V4=
+  ];
+  425 -> 0 [
+    V3="http://travel.org/russia#January"
+    V4=
+  ];
+  425 -> 0 [
+    V3="http://travel.org/russia#December"
+    V4=
+  ];
+  425 -> 427 [
+    V3="http://travel.org/russia#Suzdal"
+    V4=
+  ];
+  426 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  426 -> 457 [
+    V3=music
+    V4=en
+  ];
+  426 -> 461 [
+    V3="http://travel.org/russia#culture_and_art"
+    V4=
+  ];
+  427 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  427 -> 457 [
+    V3=take_place_at
+    V4=en
+  ];
+  427 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  427 -> 459 [
+    V3="http://travel.org/russia#festival"
+    V4=
+  ];
+  427 -> 460 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  428 -> 457 [
+    V3="9 pm"
+    V4=en
+  ];
+  428 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  429 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  429 -> 457 [
+    V3=tourist_information
+    V4=en
+  ];
+  429 -> 461 [
+    V3="http://travel.org/russia#Spiritual_Product"
+    V4=
+  ];
+  430 -> 457 [
+    V3="St_Basil's_Cathedral"
+    V4=en
+  ];
+  430 -> 456 [
+    V3="http://travel.org/russia#cathedral"
+    V4=
+  ];
+  430 -> 82 [
+    V3="St. Basil's Cathedral"
+    V4=
+  ];
+  430 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  430 -> 419 [
+    V3="http://travel.org/russia#Onion_Dom"
+    V4=
+  ];
+  431 -> 457 [
+    V3=Autumn
+    V4=en
+  ];
+  431 -> 456 [
+    V3="http://travel.org/russia#season"
+    V4=
+  ];
+  432 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  432 -> 457 [
+    V3=is_close_to
+    V4=en
+  ];
+  432 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  432 -> 459 [
+    V3="http://travel.org/russia#geographical_environment"
+    V4=
+  ];
+  432 -> 460 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  433 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  433 -> 457 [
+    V3=certificate
+    V4=en
+  ];
+  433 -> 461 [
+    V3="http://travel.org/russia#document"
+    V4=
+  ];
+  434 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  434 -> 457 [
+    V3=train_travel
+    V4=en
+  ];
+  434 -> 461 [
+    V3="http://travel.org/russia#travel_event"
+    V4=
+  ];
+  435 -> 457 [
+    V3=Souvenir
+    V4=en
+  ];
+  435 -> 456 [
+    V3="http://travel.org/russia#others"
+    V4=
+  ];
+  436 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  436 -> 457 [
+    V3=air_travel
+    V4=en
+  ];
+  436 -> 461 [
+    V3="http://travel.org/russia#travel_event"
+    V4=
+  ];
+  437 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  437 -> 457 [
+    V3=folk_music
+    V4=en
+  ];
+  437 -> 461 [
+    V3="http://travel.org/russia#live_music"
+    V4=
+  ];
+  438 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  438 -> 457 [
+    V3=has_training_place
+    V4=en
+  ];
+  438 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  438 -> 459 [
+    V3="http://travel.org/russia#sport"
+    V4=
+  ];
+  438 -> 460 [
+    V3="http://travel.org/russia#region"
+    V4=
+  ];
+  439 -> 457 [
+    V3=Mariinsky_Theatre
+    V4=en
+  ];
+  439 -> 456 [
+    V3="http://travel.org/russia#theatre"
+    V4=
+  ];
+  439 -> 82 [
+    V3="Theatre of Mariinsky"
+    V4=
+  ];
+  439 -> 310 [
+    V3="http://travel.org/russia#St.Petersburg"
+    V4=
+  ];
+  440 -> 457 [
+    V3=Meta_Sculpture
+    V4=en
+  ];
+  440 -> 456 [
+    V3="http://travel.org/russia#others"
+    V4=
+  ];
+  441 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  441 -> 457 [
+    V3=document
+    V4=en
+  ];
+  441 -> 461 [
+    V3="http://travel.org/russia#Material"
+    V4=
+  ];
+  442 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  442 -> 457 [
+    V3=has_tel_code
+    V4=en
+  ];
+  442 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  442 -> 459 [
+    V3="http://travel.org/russia#political_region"
+    V4=
+  ];
+  442 -> 460 [
+    V3="http://www.w3.org/2001/XMLSchema#INTEGER"
+    V4=
+  ];
+  443 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  443 -> 457 [
+    V3=live_music
+    V4=en
+  ];
+  443 -> 461 [
+    V3="http://travel.org/russia#music"
+    V4=
+  ];
+  444 -> 457 [
+    V3=Grand_Moscow_State_Circus
+    V4=en
+  ];
+  444 -> 456 [
+    V3="http://travel.org/russia#circuse"
+    V4=
+  ];
+  445 -> 457 [
+    V3=Gorky_Park
+    V4=en
+  ];
+  445 -> 456 [
+    V3="http://travel.org/russia#park"
+    V4=
+  ];
+  445 -> 82 [
+    V3=Gorky
+    V4=
+  ];
+  445 -> 310 [
+    V3="http://travel.org/russia#Moscow"
+    V4=
+  ];
+  446 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  446 -> 457 [
+    V3=currency
+    V4=en
+  ];
+  446 -> 461 [
+    V3="http://travel.org/russia#consumption_information"
+    V4=
+  ];
+  447 -> 457 [
+    V3=Leo_Tolstoy
+    V4=en
+  ];
+  447 -> 456 [
+    V3="http://travel.org/russia#author"
+    V4=
+  ];
+  447 -> 456 [
+    V3="http://travel.org/russia#student"
+    V4=
+  ];
+  447 -> 184 [
+    V3="http://travel.org/russia#University_of_Kazan"
+    V4=
+  ];
+  447 -> 279 [
+    V3="http://travel.org/russia#War_and_Pearce"
+    V4=
+  ];
+  448 -> 456 [
+    V3="http://www.w3.org/2000/01/rdf-schema#Class"
+    V4=
+  ];
+  448 -> 457 [
+    V3=activity
+    V4=en
+  ];
+  448 -> 461 [
+    V3="http://travel.org/russia#recreation_sports"
+    V4=
+  ];
+  449 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  449 -> 457 [
+    V3=registered_through
+    V4=en
+  ];
+  449 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  449 -> 459 [
+    V3="http://travel.org/russia#_3months_visa"
+    V4=
+  ];
+  449 -> 460 [
+    V3="http://travel.org/russia#sponsor"
+    V4=
+  ];
+  450 -> 456 [
+    V3="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    V4=
+  ];
+  450 -> 457 [
+    V3=attend_performance_at
+    V4=en
+  ];
+  450 -> 458 [
+    V3="http://travel.org/russia#DEFAULT_ROOT_RELATION"
+    V4=
+  ];
+  450 -> 459 [
+    V3="http://travel.org/russia#artwork_organisation"
+    V4=
+  ];
+  450 -> 460 [
+    V3="http://travel.org/russia#public_building"
+    V4=
+  ];
+  451 -> 457 [
+    V3=April
+    V4=en
+  ];
+  451 -> 456 [
+    V3="http://travel.org/russia#month"
+    V4=
+  ];
+  451 -> 151 [
+    V3=false
+    V4=
+  ];
+  452 -> 457 [
+    V3="24_Hour_Convenience_Store"
+    V4=en
+  ];
+  452 -> 456 [
+    V3="http://travel.org/russia#convenience_store"
+    V4=
+  ];
+  453 -> 457 [
+    V3="1 am"
+    V4=en
+  ];
+  453 -> 456 [
+    V3="http://travel.org/russia#time_point"
+    V4=
+  ];
+  454 -> 457 [
+    V3=Traditional_Folk_Singing
+    V4=en
+  ];
+  454 -> 456 [
+    V3="http://travel.org/russia#singing"
+    V4=
+  ];
+  455 -> 456 [
+    V3="http://travel.org/russia#revolutionary"
+    V4=
+  ];
+  455 -> 457 [
+    V3=Marc
+    V4=en
+  ];
+  455 -> 373 [
+    V3=Marc
+    V4=
+  ];
+  455 -> 124 [
+    V3="http://travel.org/russia#Germany"
+    V4=
+  ];
+  455 -> 177 [
+    V3="http://travel.org/russia#Germany"
+    V4=
+  ];
+}
